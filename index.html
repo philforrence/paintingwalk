@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>paintingwalk</title>
+<link rel="icon" href="data:,">
+<script type="importmap">{ "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js" } }</script>
+<style>
+  html, body { margin: 0; height: 100%; background: #0b0d14; overflow: hidden; }
+  #c { display: block; width: 100vw; height: 100vh; cursor: crosshair; }
+  #hud { position: fixed; left: 18px; top: 14px; font: 500 14px/1.35 ui-serif, Georgia, serif; color: #f4ecd8;
+         text-shadow: 0 1px 3px #000c; letter-spacing: .02em; pointer-events: none; white-space: pre; }
+  #hud b { font-weight: 600; } #hud i { opacity: .7; font-style: normal; }
+  #attr { position: fixed; right: 10px; bottom: 6px; font: 11px ui-sans-serif, system-ui, sans-serif; color: #f4ecd888; pointer-events: none; }
+  /* the loading screen: the opening shot, painted in advance (assets/opening.jpg), while the paintings' worlds are
+     made ready; everything that moves here is a compositor animation, so it keeps moving while the page works */
+  #loading { position: fixed; inset: 0; z-index: 10; background: #0b0d14; overflow: hidden; transition: opacity .9s ease; }
+  #loading.done { opacity: 0; pointer-events: none; }
+  #loading img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transform: scale(1.035);
+                 animation: lIn 1.2s ease forwards, lDrift 40s ease-in-out infinite alternate; }
+  #loading::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, #0b0d14ee 0%, #0b0d1488 28%, transparent 55%); }
+  @keyframes lIn { to { opacity: 1; } }
+  @keyframes lDrift { from { transform: scale(1.035); } to { transform: scale(1.0) translate(-0.6%, 0.4%); } }
+  #loading .panel { position: absolute; z-index: 1; left: clamp(16px, 5vw, 56px); right: clamp(16px, 5vw, 56px); bottom: clamp(28px, 7vh, 64px);
+                    color: #f4ecd8; font: 400 15px/1.5 ui-serif, Georgia, serif; text-shadow: 0 1px 3px #000c; }
+  #loading h1 { margin: 0 0 4px; font: 500 clamp(28px, 4vw, 44px)/1.1 ui-serif, Georgia, serif; letter-spacing: .01em; }
+  #loading .sub { opacity: .8; margin: 0 0 18px; }
+  #loading ul { list-style: none; margin: 0 0 18px; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 22px; }
+  #loading li { opacity: .45; transition: opacity .4s; }
+  #loading li::before { content: "○ "; }
+  #loading li.now { opacity: .9; }
+  #loading li.now::before { content: "◌ "; display: inline-block; animation: lSpin 2.4s linear infinite; }
+  #loading li.ok { opacity: 1; }
+  #loading li.ok::before { content: "● "; color: #e9c46a; }
+  @keyframes lSpin { to { transform: rotate(360deg); } }
+  #loading .keys { font: 12px/1.6 ui-sans-serif, system-ui, sans-serif; opacity: .7; letter-spacing: .02em; }
+  #loading .keys b { font-weight: 600; opacity: 1; }
+  #loading .bar { position: absolute; z-index: 1; left: 0; right: 0; bottom: 0; height: 3px; background: #f4ecd81a; overflow: hidden; }
+  #loading .bar i { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: #e9c46a; transition: width .6s ease; }
+  #loading .bar::after { content: ""; position: absolute; top: 0; bottom: 0; width: 22%; background: linear-gradient(90deg, transparent, #f4ecd866, transparent);
+                         animation: lSweep 1.8s ease-in-out infinite; }
+  @keyframes lSweep { from { transform: translateX(-100%); } to { transform: translateX(560%); } }
+  #loading .err { color: #f0a58a; }
+</style>
+</head>
+<body>
+<div id="loading" role="status" aria-live="polite">
+  <script>
+    // the opening shot, for visitors (the tools' pages take the loading screen away, and don't fetch it)
+    if (!/[?&](easel|shot|bench|cam)\b/.test(location.search)) { const i = new Image(); i.alt = ""; i.src = "assets/opening.jpg"; document.currentScript.after(i); }
+  </script>
+  <div class="panel">
+    <h1>paintingwalk</h1>
+    <p class="sub">Walk into the paintings. Preparing their worlds…</p>
+    <ul>
+      <li data-k="postoffice">the Post Office</li>
+      <li data-k="rittenhouse">Rittenhouse Square in snow</li>
+      <li data-k="monument">the Washington Monument at night</li>
+    </ul>
+    <div class="keys">click, then look with the mouse · <b>W A S D</b> to walk, <b>Shift</b> to jog, <b>G</b> for 2× speed · walk up to a painting and on into it · <b>F</b> to fly · <b>M</b> for sound</div>
+  </div>
+  <div class="bar"><i></i></div>
+</div>
+<canvas id="c"></canvas>
+<div id="hud"></div>
+<div id="attr">Map data © OpenStreetMap contributors (ODbL)</div>
+<script type="module" src="./main.js"></script>
+</body>
+</html>
