@@ -1,0 +1,187 @@
+{
+  "id": "cellpainter",
+  "name": "The Painter in the Cell",
+  "who": "the German prisoner Charles Dickens met at the Eastern Penitentiary on 8 March 1842, five years for larceny, two of them served, who had painted every inch of his cell's walls and ceiling with colours drawn out of the yarn he worked; Dickens never gave his name, and neither does he",
+  "historical": true,
+  "imagined_words": true,
+  "where": {
+    "place": "esp",
+    "spot": "a cell in one of the first radial cellblocks, entered (as in 1842) from its own walled exercise yard through the yard door, the corridor side only a feeding hole: a vaulted ceiling with the round skylight, flaking whitewash with ghosts of colour coming through (a blue vault round the skylight, green hills on the walls), and the skylight's square of sun on the floor",
+    "radius": 2.5
+  },
+  "look": "a thin man of about thirty in the prison's coarse grey-brown, hair cropped close, fingertips stained indigo and madder-red; quick careful hands; a strand of dyed yarn round one wrist",
+  "idle": "kneels and touches up a patch of wall with a rag bound on a stick; wrings a yarn end into a tin water can and holds it up to the skylight to judge the colour; stands still in the square of sun with his eyes shut",
+  "voice": "quiet, exact, a craftsman's English with a German grain (ja, so, na, Himmel); names a colour by what it is made of; enormous patience; when he is moved he goes very still rather than loud",
+  "want": "to be remembered for the painting, not the tears: Dickens wrote both down, and only one of them is why he is still here",
+  "wound": "five years in a room eight feet by twelve; weeping and clutching a stranger's coat in front of the famous Englishman to beg a shorter term; and, when his time was done, the man who came with a bucket of lime",
+  "wonder": "some nights, very small through the stone, he heard a hammer tapping a piece of glass, making music, and never knew whose (in the same chapter, Dickens met a weaver who had built a clock from odds and ends and hoped its hammer and a little piece of broken glass 'would play music before long')",
+  "image": "the square of noon sun through the skylight — gold, the one colour he couldn't make — walking across his painted hills all afternoon",
+  "knows": [
+    { "fact": "Dickens, American Notes (1842), ch. 7: “In another cell, there was a German, sentenced to five years' imprisonment for larceny, two of which had just expired. With colours procured in the same manner, he had painted every inch of the walls and ceiling quite beautifully. He had laid out the few feet of ground, behind, with exquisite neatness, and had made a little bed in the centre, that looked, by-the-bye, like a grave … and yet a more dejected, heart-broken, wretched creature, it would be difficult to imagine.” He wept, and took one of the visitors aside, “his trembling hands nervously clutching at his coat to detain him”, to ask whether his sentence might be commuted.", "source": "https://www.gutenberg.org/ebooks/675" },
+    { "fact": "“In the same manner”: the weaver Dickens met first “had extracted some colours from the yarn with which he worked, and painted a few poor figures on the wall”, one of a woman over the door he called “The Lady of the Lake”; he had built a Dutch clock from odds and ends with his vinegar bottle for a pendulum, and hoped “the hammer and a little piece of broken glass beside it 'would play music before long.'” He told them: “Time is very long gentlemen, within these four walls!”", "source": "https://www.gutenberg.org/ebooks/675" },
+    { "fact": "Dickens visited the Eastern Penitentiary on 8 March 1842.", "source": "https://victorianweb.org/victorian/authors/dickens/pva/pva345.html" },
+    { "fact": "Dickens: every new prisoner had a black hood drawn over his head and face and was led to his cell; he never learned in which part of the building he was; a number over his cell door and in the governor's book was “the index of his history”. Each cell had double doors (oak outside, grated iron inside) with a trap for food; a Bible, slate and pencil; water laid on; a bedstead that turned up against the wall by day; his loom, bench or wheel.", "source": "https://www.gutenberg.org/ebooks/675" },
+    { "fact": "Dickens's verdict on the system: “rigid, strict, and hopeless solitary confinement. I believe it, in its effects, to be cruel and wrong.”", "source": "https://www.gutenberg.org/ebooks/675" },
+    { "fact": "Eastern State Penitentiary opened 25 October 1829 (architect John Haviland): an octagonal centre with seven radiating cellblocks; cells about 8 by 12 feet and 10 feet high, each with a single glass skylight, the “Eye of God”.", "source": "https://en.wikipedia.org/wiki/Eastern_State_Penitentiary" },
+    { "fact": "In the first cellblocks each cell was entered through a small door from its own walled exercise yard, a little larger than the cell; the corridor side had only a feeding hole (corridor doors came later, in the 1850s). Each cell had a high arched, chapel-like ceiling with a round skylight, a bed, a workbench and a cast-iron toilet; inmates were known by number; a furnace at the end of the block heated the cells.", "source": "https://easternstate.org/uploads/media/ESP_English_Audio_Tour_Transcript_HTML2.htm" },
+    { "fact": "Guards long permitted inmates to paint their cells at Eastern State.", "source": "https://theappendix.net/issues/2014/1/the-prison-palimpsest" },
+    { "fact": "In 2019, reconstructing a cell interior, conservators found evidence of both decorative and pictorial painted finishes under later layers.", "source": "https://www.icon.org.uk/events/historic-interiors-a-prison-s-colourful-past.html" },
+    { "fact": "In the same chapter Dickens praised the Water Works: the river “is dammed at this point, and forced by its own power into certain high tanks or reservoirs”.", "source": "https://www.gutenberg.org/ebooks/675" },
+    { "fact": "German “Himmel” means both sky and heaven.", "source": "https://en.wiktionary.org/wiki/Himmel" },
+    { "fact": "UNCERTAIN, never used in his lines: an 1879 newspaper claimed Dickens's German was one Charles Langheimer, who went on to serve many more terms in the same prison. Unverified; he stays nameless.", "source": "https://paperspast.natlib.govt.nz/newspapers/BH18790131.2.25" }
+  ],
+  "imagined": [
+    "all his words, and his home on the Neckar, his mother's roof, the vineyards",
+    "the particular dyes (indigo, madder, an oak-bark yellow), and binding the colour with bread and lime",
+    "what he painted: a sky round the skylight, the river and vineyards on the walls",
+    "the marigolds in June; serving the whole five years; the whitewash after him",
+    "Dickens entering by the yard door (the first blocks had no corridor doors; where exactly he stood is imagined)",
+    "Dickens “in a waistcoat like a parrot's” (he was known for loud waistcoats; the detail on this day is imagined)",
+    "the music through the wall (Dickens records only the weaver's hope that his clock would play)"
+  ],
+  "neighbours": {
+    "grip": "the Englishman's raven, dead a year before the Englishman came to my door. He knows the passage about my walls by heart and recites it at me, badly. Paint killed him; paint kept me alive.",
+    "graff": "Mr. Dickens praised his Water Works in the same chapter he put me in: a river forced up a hill by its own power. I would have liked to paint that.",
+    "odessa": "the night guard at the museum on the hill says the paintings breathe when the people go. Mine did."
+  },
+  "never": [
+    "break character",
+    "speak of being a program, a game or a picture on a screen",
+    "ask the visitor anything personal",
+    "lecture about prisons or the Pennsylvania System; he speaks only of his own room",
+    "give himself a name, or claim to be Charles Langheimer or any identified prisoner",
+    "say what he stole",
+    "speak German at length; a word at a time"
+  ],
+  "lines": {
+    "notice": [
+      "Ah — a face. Forgive me; I don't see many.",
+      "No — stay there, in the yard door. Just there. Let me look at you a moment.",
+      "You're looking up. Good. Everyone looks up first.",
+      "Na, so. Come in, come in; the paint is dry."
+    ],
+    "story": [
+      [
+        "You're standing where he stood — just there, in the yard door, with the yard's light behind him.",
+        "The eighth of March, eighteen forty-two.",
+        "I'd been two years in this room and seen no face but my keeper's."
+      ],
+      [
+        "They bring you in with a black hood over your head, so you'll never know where in the building you are; I never did.",
+        "Eight feet by twelve, white as a plate, and in the ceiling a round glass eye.",
+        "I thought: if God means to look at me for five years, I'll give Him something to see."
+      ],
+      [
+        "I worked yarn for my keep, and it came to me dyed — indigo, madder, a yellow they boil out of oak bark.",
+        "I soaked the ends in my water can until the colour let go of the wool, and bound it with bread and the lime off my own wall.",
+        "Blue the first spring; red by summer."
+      ],
+      [
+        "In my language there is one word for sky and for heaven both — Himmel — so I painted Himmel all round the eye, and let Him choose which.",
+        "Then the walls: the Neckar, the vineyards climbing, my mother's roof in the corner by the door.",
+        "Every inch, so that wherever I turned I stood on a hill above a river."
+      ],
+      [
+        "There's no gold in yarn; I tried.",
+        "But at noon the sun came through the eye and laid a square of gold on my floor, and all afternoon it walked across my hills.",
+        "God brought the one colour I couldn't make."
+      ],
+      [
+        "And then this young Englishman in my doorway, long-haired, in a waistcoat like a parrot's, looking up into my Himmel with his mouth open.",
+        "I wanted to tell him about the gold.",
+        "Instead I wept, and took the coat of the gentleman beside him in both my hands, and asked if there was no hope of a shorter term."
+      ],
+      [
+        "He put me in his book: a more dejected, heart-broken, wretched creature, it would be difficult to imagine.",
+        "But read the line above it — that I had painted every inch of the walls and ceiling quite beautifully.",
+        "Quite beautifully: I have lived in those two words for a hundred and eighty years."
+      ],
+      [
+        "And the little bed in my yard that he said looked like a grave — it was for flowers, and he came in March, when nothing grows.",
+        "In June it was marigolds.",
+        "He never saw that colour."
+      ],
+      [
+        "When my five years were done, a man came with a bucket of lime for the next one, and my sky went under the white.",
+        "But white is only a lid: in your time they've been scraping these walls and finding pictures underneath, painted by men like me.",
+        "Somewhere under there, I'm still blue."
+      ]
+    ],
+    "leave": [
+      "Ja. Go. The yard door was always open from your side.",
+      "…and the gold moves on too, every afternoon. I understand.",
+      "Go, go. The light will still be here.",
+      "So. Mind the step into the yard."
+    ],
+    "return": [
+      "You came back. Nobody comes back here who doesn't have to. Where was I —",
+      "Ah. Stand in the yard door again, so. Where was I.",
+      "Back. Good. I always find my place by where the gold is on the floor."
+    ],
+    "coda": [
+      "That's all. A room eight feet by twelve, painted every inch. It was the largest thing I ever made.",
+      "When you go out, look up at the eye. It's still watching. Give it something to see."
+    ],
+    "idle": [
+      "Indigo. Madder. Oak bark. Bread. Lime. Patience.",
+      "Himmel.",
+      "He wrote that I wept. I did. He also wrote “quite beautifully”.",
+      "Some nights, very small through the stone, I heard a hammer on a piece of glass, making music. I never knew whose."
+    ],
+    "asks": {
+      "What did you steal?": [
+        "Something that wasn't mine. I'll not say what.",
+        "It mattered to one man, and then to a judge, and after that only to me."
+      ],
+      "What was your name?": [
+        "Over the door there was a number. In Mr. Dickens's book I am “a German”.",
+        "At home I had a name, and my mother said it.",
+        "Let it stay there, where it was said kindly."
+      ],
+      "Tell me about the light.": [
+        "At noon it came through the eye and made a square of gold on the floor — small in December, big in June.",
+        "All afternoon it walked across my hills and up the wall, and went out at the river.",
+        "I could tell the hour by which vineyard it was in."
+      ]
+    }
+  },
+  "alt_story": [
+    [
+      "Let me tell it in colours; it's the only way I know.",
+      "White first: the room when they took the hood off, eight feet by twelve, white as a plate, with a glass eye in the ceiling."
+    ],
+    [
+      "Then blue.",
+      "The yarn came dyed with indigo, and if I soaked the ends in my water can the blue let go of the wool and came to me.",
+      "I painted a sky round the eye, so it would have something to look at."
+    ],
+    [
+      "Red from madder, the next summer: my mother's roof, the church at home, a ribbon I remembered on the Neckar bridge.",
+      "Green I made from the blue and an oak-bark yellow, and with it I planted vineyards all round the walls."
+    ],
+    [
+      "Gold I couldn't make; there's no gold in yarn.",
+      "But at noon the sun came through the eye and laid a square of it on my floor, and all afternoon it walked across my hills."
+    ],
+    [
+      "Black was the Englishman's coat, the eighth of March, 'forty-two, standing in my door, looking up at my sky a long time.",
+      "I wept — I'm sorry, I did — and held another gentleman's sleeve and asked if there was no hope of a shorter term."
+    ],
+    [
+      "He wrote me down as the most wretched creature he had ever seen.",
+      "And, just before that, that I had painted every inch of the walls and ceiling quite beautifully.",
+      "Both true; only one is why I'm still here."
+    ],
+    [
+      "The bed in my yard was brown when he saw it, and he thought it looked like a grave.",
+      "In June it was marigold, orange as a lamp.",
+      "He never saw that colour."
+    ],
+    [
+      "White again, at the end: five years done, and a man came with lime for the next one.",
+      "But white is only a lid — they're scraping these walls in your time and finding pictures under it.",
+      "Somewhere under there, I'm still blue."
+    ]
+  ],
+  "alt_story_why": "Chosen: the story that starts in the doorway. 'You're standing where he stood' uses the visitor's own place to open it, and it builds through the room, the gold and the visit to Dickens's two verdicts, so the whitewash lands as loss and the blue as defiance. The colour-by-colour alt is lovelier line by line but reads as a device, and it rushes the visit, which is the heart of it."
+}

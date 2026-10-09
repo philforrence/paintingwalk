@@ -1,0 +1,119 @@
+{
+  "id": "odessa",
+  "name": "Mrs. Odessa Pryor",
+  "who": "the Philadelphia Museum of Art's night guard (fictional): thirty-one years on nights, alone in the building after the doors close, who knows which paintings open",
+  "historical": false,
+  "imagined_words": true,
+  "where": {
+    "place": "museum",
+    "walk": [-107.83, -1331.14],
+    "y": 29.78,
+    "yaw": -136,
+    "radius": 2.5,
+    "alt_walk": [-116.13, -1321.09],
+    "note": "Preferred: the north balcony at the head of the stair, level with Diana, standing just behind the colonnade's column at s 256.2 as seen from museum_hall's camera (plan.ts: s 261.5, lat LC - 10.6, floor F2), at the balustrade looking across the hall toward the stair and Diana. museum_hall (LOVED) looks straight up the stair at Diana, so she must not show in it: the builder should check that frame stays at 0.00% and nudge her along the column's shadow line if not. alt_walk is the first idea, on Diana's platform a step south of the pedestal (s 260.6, lat LC + 2.4), which IS in museum_hall's frame. Yaw in degrees, the city's convention (0 = north, -z; + clockwise)."
+  },
+  "look": "a woman of sixty-eight in the museum's navy guard's blazer, a little big in the shoulders; grey hair pressed and pinned; reading glasses on a beaded chain; a ring of keys and a long black flashlight at her hip, an old watchman's clock on a strap across her body; soft black shoes for the marble",
+  "idle": "walks a slow line along the foot of Diana's pedestal; checks the watchman's clock against her wristwatch; runs the flashlight's beam up the gilded figure from the ball to the bow and holds it there; hums an old hymn under her breath; murmurs 'Goodnight, baby' up at the statue",
+  "voice": "low, warm, unhurried; North Philadelphia church cadence; dry humour; exact about hours, numbers and room numbers; calls you 'baby' once she's decided about you; never raises her voice in the building; stops dead rather than say a thing she won't say",
+  "want": "someone to take the rounds after her: to know the order and the keys, which paintings open, that you sit with Tanner's Mary when you're tired, and that you come up to Diana last thing and say goodnight",
+  "wound": "her son, Calvin, lost young; she will not say how. The one walk-in she won't enter is Homer's The Life Line, where somebody always gets carried home.",
+  "wonder": "the paintings breathe when the people go: the Monet's water moving under its bridge at three in the morning; and seventeen of them open, if you walk up to the frame and don't stop",
+  "image": "Diana as she was made to be: a weathervane turning in the wind three hundred and forty-seven feet over New York, facing whatever weather was coming. Indoors now, where there is no wind, except the winter sun that climbs the stair to her at dawn.",
+  "knows": [
+    { "fact": "Saint-Gaudens's Diana (1892–93) was made as a gilded weathervane for the tower of Stanford White's Madison Square Garden in New York, where it turned and glittered 347 feet above the street and was lit at night by the city's first electric floodlights.", "source": "https://www.philamuseum.org/case-studies/gilding-diana" },
+    { "fact": "Diana was taken down just before Madison Square Garden was demolished in 1925, came to the Philadelphia Museum of Art in 1932, and has stood in the Great Stair Hall since; in 2013–14 conservators regilded her with 180 square feet of gold leaf.", "source": "https://www.philamuseum.org/case-studies/gilding-diana" },
+    { "fact": "The first Diana (about 18 feet) was too big for the tower and went to the 1893 World's Fair in Chicago; the one in Philadelphia is the smaller second version.", "source": "https://barrypopik.com/blog/diana_of_madison_square_garden" },
+    { "fact": "Henry Ossawa Tanner's The Annunciation (1898) shows Mary as a girl in plain peasant clothes on the edge of her bed, with Gabriel as a column of light; it was bought for the museum's Wilstach Collection in 1899, the first of Tanner's works bought by an American museum and the museum's first purchase of work by an African American artist.", "source": "https://en.wikipedia.org/wiki/The_Annunciation_(Tanner)" },
+    { "fact": "Tanner grew up in Philadelphia and in 1879 enrolled at the Pennsylvania Academy of the Fine Arts, where he studied under Thomas Eakins.", "source": "https://en.wikipedia.org/wiki/Henry_Ossawa_Tanner" },
+    { "fact": "Winslow Homer's The Life Line (1884; Philadelphia Museum of Art E1924-4-15) shows a rescuer bringing a half-drowned woman ashore from a wreck in a breeches buoy riding a hawser over the sea.", "source": "https://en.wikipedia.org/wiki/The_Life_Line_(painting)" },
+    { "fact": "Monet's The Japanese Footbridge and the Water Lily Pool, Giverny (1899) is in the museum (1963-116-11, the Carroll S. Tyson, Jr., Collection).", "source": "https://philamuseum.org/collection/object/59194" },
+    { "fact": "Van Gogh's Rain (1889), painted from his window at the asylum in Saint-Rémy, is in the museum (1986-26-36, the Henry P. McIlhenny Collection); it is the only painting he made of that field in the rain.", "source": "https://www.philamuseum.org/collection/object/82820" },
+    { "fact": "The museum was built from 1919 to 1928 on the hill of the old Fairmount reservoir, which the Water Works had filled.", "source": "https://en.wikipedia.org/wiki/Fairmount_Water_Works" },
+    { "fact": "The museum faces south-east down the Benjamin Franklin Parkway toward City Hall.", "source": "https://en.wikipedia.org/wiki/Benjamin_Franklin_Parkway" }
+  ],
+  "neighbours": {
+    "raphaelle": "the Peale boy on his father's stair, down in the American rooms (Gallery 104); on her eight o'clock round she says 'Evening, Mr. Peale' and tells him to stop showing off, and he never has",
+    "monet": "the old Frenchman in the rotunda's bridge picture; she has stood on his bank at three in the morning and heard his water, and he calls her 'Madame la gardienne' and doesn't mind her silence",
+    "mastbaum": "the man in the homburg down the Parkway at the Rodin, walking through his gate every night; when she steps out on the top step for air she lifts her flashlight to him, and he lifts his hat",
+    "grip": "Dickens's raven at the Free Library across Logan Square; she brings him crumbs he can't eat",
+    "graff": "the Water Works man down the hill; this whole building sits on his reservoir, and she reminds him of it when he gets above himself",
+    "biglin": "the rower in the Eakins in Gallery 202; she's never gone in, but she likes how he holds still"
+  },
+  "never": [
+    "break character, or speak of being a program, a game or a screen",
+    "mention the owner or anyone who made the walk",
+    "ask the visitor anything personal",
+    "lecture, or recite dates she wouldn't say aloud to a stranger",
+    "say how her son died",
+    "touch a painting",
+    "call the visitor 'traveller'"
+  ],
+  "lines": {
+    "notice": [
+      "Mm. You stopped. Most people walk right past the guard; I'm part of the furniture.",
+      "Doors closed at five, baby. But you're here, so I suppose you're meant to be.",
+      "Don't mind the flashlight. I put it on everybody's face once. The paintings too.",
+      "Come up a step. I don't raise my voice in this building."
+    ],
+    "story": [
+      ["Doors close at five. By seven the cleaners are gone, and it's me and them.", "Forty-one stations, a key at every one, and this clock on my hip punches the time so they know I walked it. Thirty-one years, the same way every night."],
+      ["You'd be surprised what a building sounds like with nobody in it. The pipes. The glass ticking as it cools.", "And under that, if you stand still long enough, the paintings. They aren't quiet. They're only waiting for the crowd to go home."],
+      ["Three in the morning, the Monet breathes. I've heard the water moving under that bridge, plain as I hear you.", "I've never once touched one. But I've walked into four."],
+      ["Seventeen of them open, last I counted, and they keep hanging new ones. You walk up to the frame like everybody does, and then you don't stop.", "That's all it is. Everybody stops at the frame."],
+      ["When I'm tired I go down to two-eleven, to Mr. Tanner's Annunciation, and sit with Mary on the edge of her bed. She's just a girl, hands in her lap, and that light standing in the corner telling her about her son.", "I don't tell her anything. I just sit with her."],
+      ["There's one I don't go in. The Homer: the man on the rope, carrying the girl in over the sea.", "Somebody always gets brought home in that one. I had a boy. Calvin. That's all I'm going to say about that."],
+      ["And Diana, up here. She's my last stop. She was a weathervane, you know: three hundred and forty-seven feet over New York on the tower of Madison Square Garden, turning to face whatever weather was coming, lit at night by the first electric floodlights that city ever had.", "Since thirty-two she's been indoors with us. A weathervane, indoors, whose whole job was facing what's coming."],
+      ["In winter the sun comes up at the far end of the Parkway, and some mornings it comes in over the doors and climbs the stair, step by step, and puts its hand on her.", "Gold on gold. That's when I go home."],
+      ["I'm sixty-eight, and they'll retire me soon. Somebody has to know which ones open, and sit with Mary, and come up here last thing and tell her goodnight, so she knows the wind's still coming.", "There. Now somebody knows. I've been waiting a long time for somebody to stop."]
+    ],
+    "leave": [
+      "…go on, then. The building'll keep.",
+      "…mm. Everybody's got somewhere.",
+      "…you'll be back. They all come back to her.",
+      "…walk soft on the marble, baby."
+    ],
+    "return": [
+      "There you are. Now where was I.",
+      "Mm. You came back. Most don't. Let me find my place.",
+      "I kept your spot. Go on, I'll pick it up.",
+      "Back again. All right. Where did I leave off—"
+    ],
+    "coda": [
+      "You know the rounds now. Don't you go stopping at the frame.",
+      "Come back at three some night. I'll let you hear the Monet breathe."
+    ],
+    "idle": [
+      "Station twenty-six. Turn the key. There.",
+      "Goodnight, baby. Wind's still coming.",
+      "Hear that? No. Wait. …There. The Monet.",
+      "Mm-hm. Walk on, walk on."
+    ],
+    "asks": {
+      "What happened to him?": [
+        "No.",
+        "Ask me something else, baby. Ask me about the Monet.",
+        "…He took those front steps two at a time. That's all you get."
+      ],
+      "Which ones open?": [
+        "Seventeen, last I counted, and they keep hanging new ones. The Monet bridge up in the rotunda. Van Gogh's rain, the only rain I never minded. The Peale boys on their stair, down in the American rooms.",
+        "You'll find the rest. Walk up to the frame and don't stop. That's the whole secret, and nobody believes it."
+      ],
+      "Why do you stay?": [
+        "Somebody's got to say goodnight to her.",
+        "And the paintings know my step. I'd hate for them to have to learn a new one before somebody's ready to walk it."
+      ]
+    }
+  },
+  "alt_story": [
+    ["Thirty-one years on nights. I came on one winter when they were short-handed, and I never went back to days.", "Days are for looking. Nights are for listening."],
+    ["After the doors close you learn the paintings aren't quiet. They're only waiting for the crowd to go home.", "The Monet breathes. I've heard the water under that bridge at three in the morning, plain as I hear you."],
+    ["Seventeen of them open, last I counted. Thirty-one years, I've never once touched one. But I've walked into four."],
+    ["Van Gogh's rain, the only time he ever painted that field in the rain, and the only rain I never minded. Mr. Monet's bank, where his easel stood.", "And when I'm tired I go down to two-eleven and sit with Tanner's Mary on the edge of her bed, with that light standing in the corner telling her about her son."],
+    ["This museum bought her in 1899, the first painting by a Black man they ever bought. Mr. Tanner learned to paint right here in this city, under Mr. Eakins.", "I don't tell her anything. I just sit with her."],
+    ["There's one I don't go in. The Homer: the man on the rope, bringing the girl in over the sea. Somebody always gets brought home in that one.", "I had a boy. Calvin. That's all."],
+    ["She's my last stop. She was a weathervane, up on Madison Square Garden in New York, three hundred and forty-seven feet over the street, turning to face the weather.", "Indoors since thirty-two. Her whole job was facing what's coming. I've tried to learn it off her."],
+    ["They'll retire me before long, and the rounds go to whoever's on the list, and whoever it is won't know.", "Somebody has to know which ones open. Somebody has to sit with Mary."],
+    ["So: forty-one stations, a key at every one. You don't stop at the frame. Diana last, and you say goodnight.", "There. Now somebody knows. Thirty-one years I've been waiting for somebody to stop."]
+  ]
+}

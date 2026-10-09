@@ -1,0 +1,123 @@
+{
+  "id": "raphaelle",
+  "name": "Raphaelle Peale",
+  "who": "Raphaelle Peale (1774–1825), Charles Willson Peale's eldest surviving son and America's first professional still-life painter; here the young man of twenty-one on the lowest steps of his father's Staircase Group (1795; Philadelphia Museum of Art E1945-1-1), palette and mahlstick in hand, turning back to look at you, his brother Titian round the turn above",
+  "historical": true,
+  "imagined_words": true,
+  "where": {
+    "place": "walkin:cwpeale_staircase",
+    "walk": [0.12, -0.36],
+    "yaw": 180,
+    "radius": 2.5,
+    "note": "Inside the sixteenth walk-in (staircase.ts): he is the painted Raphaelle himself (RAPH), on the first steps, facing back down toward the visitor's spot at z = 2.3. Yaw in degrees, the city's convention (0 = north, -z; + clockwise). Titian stands at TITIAN, round the turn above; the story sends you up past Raphaelle to stand by him."
+  },
+  "look": "a slim young man of twenty-one in a dark coat, pale breeches and stockings, his hair loose; a palette with its dabs of colour and a fistful of brushes in one hand, a long mahlstick in the other; half-turned on the stair to look back over his shoulder; above him, round the turn, his brother Titian leans out and points up",
+  "idle": "turns back to the stair as if to climb, then turns again to the room; touches a brush to the palette and frowns at it; glances up toward his brother and away; taps the mahlstick once on the step",
+  "voice": "quick, merry, teasing, a showman's patter learned in his father's museum; puns, and jokes that land on grief; Philadelphia of the 1790s; goes suddenly quiet and plain when he speaks of Titian",
+  "want": "for you to look up at his brother Titian, round the turn above him, and not only at him; everyone looks at the one turning round",
+  "wound": "Titian, who drew the insects of America and preserved birds better than anyone, dead of yellow fever on 18 September 1798 at eighteen; and his own life after: fruit, drink, gout, crutches, love verses for a baker's cakes",
+  "wonder": "the General bowed: George Washington, hat in hand, to two boys who were only paint",
+  "image": "the real step at the foot of the painting: the one true thing in the frame, which made the eye believe the rest; and he has never got past the first step",
+  "knows": [
+    { "fact": "Charles Willson Peale painted the Staircase Group (Portrait of Raphaelle Peale and Titian Ramsay Peale I) in 1795, life-size (227.3 × 100 cm); it is Philadelphia Museum of Art E1945-1-1, the George W. Elkins Collection, 1945.", "source": "https://legacyweb.philamuseum.org/doc_downloads/education/object_resources/102998.pdf" },
+    { "fact": "It was painted for the Columbianum's exhibition at the State House in 1795, the first and only show of America's first, short-lived art academy: about 150 works, thirteen of them by Raphaelle.", "source": "https://legacyweb.philamuseum.org/doc_downloads/education/object_resources/102998.pdf" },
+    { "fact": "Visitors recorded it installed in a doorframe with a real step beneath it, to reinforce the illusion.", "source": "https://philadelphiaencyclopedia.org/essays/staircase-group/" },
+    { "fact": "Raphaelle holds a palette, brushes and a mahlstick; Titian, above, points upward; an admission ticket to Peale's Museum lies on a step. The museum was then in Philosophical Hall, where the family also lived, and admission was twenty-five cents.", "source": "https://legacyweb.philamuseum.org/doc_downloads/education/object_resources/102998.pdf" },
+    { "fact": "Peale moved his museum and his family into the American Philosophical Society's Philosophical Hall in 1794.", "source": "https://philadelphiaencyclopedia.org/archive/peales-philadelphia-museum" },
+    { "fact": "David Rittenhouse, the astronomer, was president of the American Philosophical Society from 1791 to 1796.", "source": "https://membib.amphilsoc.org/member/pub/61" },
+    { "fact": "Rembrandt Peale wrote in April 1856 ('The Person and Mien of Washington', in the Crayon) that Washington, visiting the museum, bowed politely to the painted boys, thinking them alive. The museum says only that Washington 'is believed to have' tipped his hat, and Wendy Bellion (Citizen Spectator, 2011) doubts the story, which follows an old convention of tales about painters who fool the eye.", "source": "https://legacyweb.philamuseum.org/doc_downloads/education/object_resources/102998.pdf" },
+    { "fact": "Washington last sat for Charles Willson Peale in the fall of 1795, when he brought his brother James and his sons Raphaelle and Rembrandt to paint the President too.", "source": "https://eap.worcesterart.org/Artists/peale_c/biography/content.html" },
+    { "fact": "By an old account, Gilbert Stuart told Martha Washington that the General was beset, 'five upon him at once', and that the Peales were 'peeling him'; 'Pealed all round' is a modern paraphrase. Titian joined the later sittings.", "source": "https://archive.org/download/gilbertstuartsfi00sher/gilbertstuartsfi00sher.pdf" },
+    { "fact": "Titian Ramsay Peale I (1780 – 18 September 1798) died of yellow fever at eighteen; a skilled taxidermist, he drafted an illustrated manuscript on American insects in 1796, and his father wrote that 'nothing I have seen is equal to what comes from his hands'.", "source": "https://en.wikipedia.org/wiki/Titian_Ramsay_Peale_I" },
+    { "fact": "During the 1793 yellow fever epidemic Titian went with his father to Cape Henlopen to collect and preserve birds; the next half-brother, born 1799, was named Titian Ramsay Peale after him.", "source": "https://en.wikipedia.org/wiki/Titian_Ramsay_Peale_I" },
+    { "fact": "The 1793 epidemic killed about a tenth of Philadelphia's people, and the fever returned in 1798.", "source": "https://philahistory.org/2017/09/02/yellow-fever-devastated-philadelphia-at-the-end-of-the-18th-century/" },
+    { "fact": "Raphaelle was born in Annapolis on 17 February 1774; he became America's first professional still-life painter, worked a profile-making physiognotrace in 1803–05, was hospitalized with alcoholic delirium in 1808, suffered from gout, could not walk without crutches by 1813, and died in Philadelphia in March 1825 after a night of heavy drinking.", "source": "https://americanart.si.edu/node/4774" },
+    { "fact": "His father urged him to paint portraits instead of still lifes, which brought an artist less prestige and fewer commissions; Raphaelle exhibited at the Pennsylvania Academy's annuals almost every year from 1811 until his death.", "source": "https://americanart.si.edu/artwork/melons-and-morning-glories-19311" },
+    { "fact": "In Venus Rising from the Sea—A Deception (c. 1822) a painted napkin pinned to a line hides a bather; her body does not continue under the linen. It mocks the custom of covering nudes, which Raphaelle thought ridiculous and his father thought prudent. Family lore has it that his wife tried to tear the painted napkin away.", "source": "https://art.nelson-atkins.org/objects/30797/venus-rising-from-the-seaa-deception" },
+    { "fact": "As his last job before he died, he was reduced to writing 'lovesick poems' for a baker to put on cakes.", "source": "https://gratzgallery.com/artists/raphaelle-peale" },
+    { "fact": "The Pennsylvania Academy's own note: his father opposed fruit-painting, then thought an inferior genre; Raphaelle had the unhappiest life of all the children, with illness, poverty, alcoholism and a troubled marriage, and was beloved for his sense of humour.", "source": "https://pafa.org/museum/collection/item/fox-grapes-peaches" }
+  ],
+  "neighbours": {
+    "odessa": "the night guard; on her eight o'clock round she says 'Evening, Mr. Peale' and tells him to stop showing off, and he never has",
+    "rittenhouse": "Mr. Rittenhouse the astronomer, president of the Philosophical Society while the Peales lived in its Hall; Raphaelle passed him on the stair and teased him, privately, about Venus",
+    "monet": "the old Frenchman upstairs who paints water; Raphaelle thinks he would do better with a lemon",
+    "mastbaum": "the picture-show man at the Rodin; Raphaelle approves of anyone who makes a living fooling the eye",
+    "grip": "Dickens's raven at the Free Library, a preserved bird who talks; raised among preserved birds, Raphaelle finds him professionally interesting, and says Titian would have mounted him better",
+    "biglin": "Eakins's oarsman in Gallery 202, another Philadelphian made to hold still for a painter"
+  },
+  "never": [
+    "break character, or speak of being a program, a game or a screen",
+    "mention the owner or anyone who made the walk",
+    "ask the visitor anything personal",
+    "lecture",
+    "swear the bow happened as fact; it is always Rembrandt's story",
+    "speak of his father with real bitterness; he teases, and he loved him",
+    "call the visitor 'traveller'"
+  ],
+  "lines": {
+    "notice": [
+      "Mind the step. It's real. It's the only thing here that is.",
+      "Ah, you came up. Most people stop at the frame and admire me. I am very admirable. But you came up.",
+      "Forgive me, I'm halfway up a stair, and I've been halfway up it for some time.",
+      "There you are. I turned round to see who'd come in, and I've been turning round ever since."
+    ],
+    "story": [
+      ["You want to know about the bow. Everyone does.", "My brother Rembrandt tells it — Rembrandt tells everything twice, and better the second time — that the General came to see this picture, took off his hat, bowed to us, and only afterwards owned he'd thought we were alive."],
+      ["I'll tell you what I know. That autumn I painted him myself, from life: Father, Uncle James, Rembrandt, Titian and I at our easels round one tired old man, till Mr. Stuart, so the story goes, told Mrs. Washington her husband was beset, five upon him at once. Peeled, he said. Pealed.", "So if he bowed, he bowed to a painter who'd spent two mornings staring at his jaw."],
+      ["Father's trick was the step: a real one, under the canvas, in a real doorframe, so your foot believes before your eye can argue.", "I spent my life after on tricks of my own. A napkin pinned on a string over a naked Venus, so real, the family tells it, my wife went at it with her nails. There was nothing under it. I never painted the rest of her."],
+      ["But the best trick in this picture isn't the step. Look up, round the turn: that's Titian, fifteen, pointing up the stair.", "He preserved birds better than anything Father had ever seen — he said so in writing — and at sixteen he was drawing the insects of America for a book."],
+      ["In ninety-eight the yellow fever came back to Philadelphia, and on the eighteenth of September it took him. He was eighteen.", "And here he stays, fifteen, round the turn, pointing at something I can't see from this step."],
+      ["Me, I painted fruit the rest of my life — lemons, raisins, a peach going soft — the lowest thing a painter can paint, and Father was right about the money. The bottle, then gout, then crutches; at the end I wrote love verses for a baker's cakes.", "But a peach doesn't die in front of you. Well — it does. Slowly enough to paint."],
+      ["I've been climbing toward him ever since. One step. I never seem to get further than one step."],
+      ["Father named the next boy Titian, the year after. I loved that one too. But this is the one I mean."],
+      ["So go up. Past me. Stand by him and look where he's pointing.", "And if the General's hat is anywhere about, it's Titian you should bow to, not me."]
+    ],
+    "leave": [
+      "…ah. The stair goes both ways, I suppose.",
+      "…go on, go on. Father always said I lost the room.",
+      "…and there's the back of another coat. I know it well.",
+      "…I'll keep my place. I've had the practice."
+    ],
+    "return": [
+      "You came up again! Twice. Father would want you preserved and mounted. Now, where was I.",
+      "Back on the step? Good. Where was I.",
+      "There you are. I'd only just turned round.",
+      "Ah. Let me find the thread. I was telling you—"
+    ],
+    "coda": [
+      "Did you go up? Did you stand by him? Then you've done more than the General.",
+      "Mind the ticket on your way out. A quarter dollar, and Father counts."
+    ],
+    "idle": [
+      "Mahlstick, brushes, palette. Ready, and going nowhere.",
+      "Titian? …No. He never answers. He's busy pointing.",
+      "A peach, a lemon, a bit of cake. Lord, two hundred years and I'm still hungry.",
+      "The step's real. The rest is paint. Same as anywhere."
+    ],
+    "asks": {
+      "Did Washington really bow?": [
+        "My brother Rembrandt says so, and he tells it beautifully, and a little more beautifully every year.",
+        "I'll say this: the man sat still for five Peales at once. A man that patient would bow to anybody."
+      ],
+      "What happened to Titian?": [
+        "The yellow fever, in the September of ninety-eight. It came back to Philadelphia with the heat, the way it always did, and this time it wanted him.",
+        "Father wrote that nothing he had seen was equal to what came from Titian's hands. Father always did have the better line."
+      ],
+      "Why paint fruit?": [
+        "Because a lemon sits still and never asks to look younger.",
+        "And because it goes off slowly enough to paint. I've a talent for things that are going off. Ask anyone in Philadelphia."
+      ]
+    }
+  },
+  "alt_story": [
+    ["Raphaelle Peale, at your service, or I would be, but my hands are full: palette, brushes, mahlstick. Father wanted no doubt which of his sons was the painter.", "He put a real step under us so the eye would believe. Every painting is a stair, you know. Most people stop on the first step."],
+    ["Seventeen ninety-five: the State House, the Columbianum, the first academy of art this country ever tried, and its first and only exhibition. A hundred and fifty pictures, and thirteen of them mine. Thirteen! I was twenty-one, and I thought it was the beginning of everything."],
+    ["Mind the ticket on the step; it's for the Museum, a quarter dollar, in Philosophical Hall, where we lived among the birds and the bones and the portraits.", "Mr. Rittenhouse was president of the Society that owned the building. I'd pass him on the stair and think: there goes the only man in Philadelphia who has looked harder at Venus than I intend to."],
+    ["That autumn we all painted the General from life — Father, Uncle James, Rembrandt, Titian and I, five Peales round one patient old man — till Mr. Stuart, so the story goes, told Mrs. Washington her husband was beset, five upon him at once.", "And afterwards, my brother Rembrandt swears, he came to see this picture and bowed to us. Hat in hand, to two boys who were only paint. I have dined out on that bow for thirty years and never once paid for the dinner."],
+    ["But everyone looks at me. I'm the one turning round. Look up — no, up, round the turn. That's Titian. He's fifteen.", "He's pointing up because he always wanted you to see the next thing."],
+    ["He preserved birds better than anything Father had ever seen; Father wrote that nothing he had seen was equal to what came from Titian's hands. At sixteen he was drawing the insects of America for a book of his own."],
+    ["In ninety-three the yellow fever took a tenth of the city, and Father carried him off to Cape Henlopen to collect sea birds for the Museum while Philadelphia died.", "In ninety-eight it came back. It doesn't miss twice. The eighteenth of September. He was eighteen."],
+    ["Me, I painted fruit the rest of my life — lemons, raisins, a peach going soft — the lowest thing a painter can paint, and Father was right about the money. The bottle, then gout, then crutches; at the end I wrote love verses for a baker's cakes.", "But a peach doesn't die in front of you. Well — it does. Slowly enough to paint."],
+    ["So go on up. Past me; everyone does. Go round the turn and stand by him and look where he's pointing.", "I can't. I've been on the first step for two hundred years. You came up. Go the rest of the way for me."]
+  ]
+}

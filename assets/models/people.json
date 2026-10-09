@@ -1,0 +1,423 @@
+{
+ "format": 1,
+ "morph": 0.12,
+ "parts": {
+  "human": [
+   "skin",
+   "hand",
+   "hair",
+   "torso",
+   "uarm",
+   "farm",
+   "thigh",
+   "shin",
+   "shoe",
+   "coat",
+   "skirt",
+   "longhair",
+   "hat",
+   "scarf",
+   "backpack",
+   "bag",
+   "canopy",
+   "shaft",
+   "phone"
+  ],
+  "dog": [
+   "fur",
+   "dark",
+   "collar",
+   "leash"
+  ]
+ },
+ "bones": {
+  "human": [
+   "hips",
+   "spine",
+   "chest",
+   "head",
+   "uarm.L",
+   "farm.L",
+   "hand.L",
+   "uarm.R",
+   "farm.R",
+   "hand.R",
+   "thigh.L",
+   "shin.L",
+   "foot.L",
+   "thigh.R",
+   "shin.R",
+   "foot.R"
+  ],
+  "dog": [
+   "rump",
+   "chest",
+   "head",
+   "tail",
+   "fleg.L",
+   "fpaw.L",
+   "fleg.R",
+   "fpaw.R",
+   "hleg.L",
+   "hpaw.L",
+   "hleg.R",
+   "hpaw.R"
+  ]
+ },
+ "joints": {
+  "human": {
+   "hips": [
+    0,
+    0.96,
+    0
+   ],
+   "spine": [
+    0,
+    1.06,
+    0
+   ],
+   "chest": [
+    0,
+    1.24,
+    0
+   ],
+   "head": [
+    0,
+    1.47,
+    0.005
+   ],
+   "uarm.L": [
+    -0.185,
+    1.415,
+    0.01
+   ],
+   "farm.L": [
+    -0.225,
+    1.13,
+    0.03
+   ],
+   "hand.L": [
+    -0.245,
+    0.875,
+    0.0
+   ],
+   "uarm.R": [
+    0.185,
+    1.415,
+    0.01
+   ],
+   "farm.R": [
+    0.225,
+    1.13,
+    0.03
+   ],
+   "hand.R": [
+    0.245,
+    0.875,
+    0.0
+   ],
+   "thigh.L": [
+    -0.09,
+    0.93,
+    0.0
+   ],
+   "shin.L": [
+    -0.095,
+    0.51,
+    -0.005
+   ],
+   "foot.L": [
+    -0.1,
+    0.085,
+    0.02
+   ],
+   "thigh.R": [
+    0.09,
+    0.93,
+    0.0
+   ],
+   "shin.R": [
+    0.095,
+    0.51,
+    -0.005
+   ],
+   "foot.R": [
+    0.1,
+    0.085,
+    0.02
+   ],
+   "head.tip": [
+    0,
+    1.76,
+    0.0
+   ],
+   "hand.L.tip": [
+    -0.25,
+    0.77,
+    -0.01
+   ],
+   "hand.R.tip": [
+    0.25,
+    0.77,
+    -0.01
+   ],
+   "foot.L.tip": [
+    -0.1,
+    0.02,
+    -0.13
+   ],
+   "foot.R.tip": [
+    0.1,
+    0.02,
+    -0.13
+   ]
+  },
+  "dog": {
+   "rump": [
+    0,
+    0.47,
+    0.24
+   ],
+   "chest": [
+    0,
+    0.49,
+    -0.16
+   ],
+   "head": [
+    0,
+    0.56,
+    -0.3
+   ],
+   "tail": [
+    0,
+    0.5,
+    0.31
+   ],
+   "fleg.L": [
+    -0.075,
+    0.43,
+    -0.17
+   ],
+   "fpaw.L": [
+    -0.075,
+    0.2,
+    -0.18
+   ],
+   "fleg.R": [
+    0.075,
+    0.43,
+    -0.17
+   ],
+   "fpaw.R": [
+    0.075,
+    0.2,
+    -0.18
+   ],
+   "hleg.L": [
+    -0.08,
+    0.44,
+    0.22
+   ],
+   "hpaw.L": [
+    -0.08,
+    0.2,
+    0.28
+   ],
+   "hleg.R": [
+    0.08,
+    0.44,
+    0.22
+   ],
+   "hpaw.R": [
+    0.08,
+    0.2,
+    0.28
+   ],
+   "head.tip": [
+    0,
+    0.6,
+    -0.56
+   ],
+   "tail.tip": [
+    0,
+    0.62,
+    0.52
+   ],
+   "fpaw.L.tip": [
+    -0.075,
+    0.0,
+    -0.17
+   ],
+   "fpaw.R.tip": [
+    0.075,
+    0.0,
+    -0.17
+   ],
+   "hpaw.L.tip": [
+    -0.08,
+    0.0,
+    0.26
+   ],
+   "hpaw.R.tip": [
+    0.08,
+    0.0,
+    0.26
+   ]
+  }
+ },
+ "meshes": [
+  {
+   "name": "human",
+   "skeleton": "human",
+   "lods": [
+    {
+     "offset": 0,
+     "vertices": 806,
+     "indices": 3798,
+     "triangles": 1266
+    },
+    {
+     "offset": 30164,
+     "vertices": 540,
+     "indices": 2532,
+     "triangles": 844
+    },
+    {
+     "offset": 50348,
+     "vertices": 215,
+     "indices": 903,
+     "triangles": 301
+    }
+   ]
+  },
+  {
+   "name": "dog",
+   "skeleton": "dog",
+   "lods": [
+    {
+     "offset": 58176,
+     "vertices": 276,
+     "indices": 1284,
+     "triangles": 428
+    },
+    {
+     "offset": 68472,
+     "vertices": 229,
+     "indices": 1017,
+     "triangles": 339
+    },
+    {
+     "offset": 76920,
+     "vertices": 112,
+     "indices": 546,
+     "triangles": 182
+    }
+   ]
+  }
+ ],
+ "clips": [
+  {
+   "name": "walk",
+   "skeleton": "human",
+   "row": 0,
+   "frames": 24,
+   "stride": 1.33
+  },
+  {
+   "name": "walk_umbrella",
+   "skeleton": "human",
+   "row": 24,
+   "frames": 24,
+   "stride": 1.29
+  },
+  {
+   "name": "walk_leash",
+   "skeleton": "human",
+   "row": 48,
+   "frames": 24,
+   "stride": 1.24
+  },
+  {
+   "name": "walk_phone",
+   "skeleton": "human",
+   "row": 72,
+   "frames": 24,
+   "stride": 1.15
+  },
+  {
+   "name": "jog",
+   "skeleton": "human",
+   "row": 96,
+   "frames": 16,
+   "stride": 2.3
+  },
+  {
+   "name": "stand",
+   "skeleton": "human",
+   "row": 112,
+   "frames": 32,
+   "period": 9.0
+  },
+  {
+   "name": "stand_phone",
+   "skeleton": "human",
+   "row": 144,
+   "frames": 32,
+   "period": 8.0
+  },
+  {
+   "name": "stand_umbrella",
+   "skeleton": "human",
+   "row": 176,
+   "frames": 32,
+   "period": 9.0
+  },
+  {
+   "name": "sit",
+   "skeleton": "human",
+   "row": 208,
+   "frames": 32,
+   "period": 11.0
+  },
+  {
+   "name": "cheer",
+   "skeleton": "human",
+   "row": 240,
+   "frames": 16,
+   "period": 1.1
+  },
+  {
+   "name": "busk_guitar",
+   "skeleton": "human",
+   "row": 256,
+   "frames": 48,
+   "period": 10.0
+  },
+  {
+   "name": "dog_trot",
+   "skeleton": "dog",
+   "row": 304,
+   "frames": 16,
+   "stride": 0.75
+  },
+  {
+   "name": "dog_stand",
+   "skeleton": "dog",
+   "row": 320,
+   "frames": 24,
+   "period": 4.0
+  },
+  {
+   "name": "dog_sit",
+   "skeleton": "dog",
+   "row": 344,
+   "frames": 16,
+   "period": 5.0
+  }
+ ],
+ "anim": {
+  "offset": 81148,
+  "rows": 360,
+  "bones": 16
+ }
+}

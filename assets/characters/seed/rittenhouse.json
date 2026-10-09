@@ -1,0 +1,41 @@
+{
+  "id": "rittenhouse", "name": "David Rittenhouse", "placeholder": true,
+  "who": "David Rittenhouse (1732–1796), clockmaker and astronomer, first Director of the United States Mint; the square bears his name",
+  "historical": true, "imagined_words": true,
+  "where": { "place": "city: Rittenhouse Square in snow, the west walk" },
+  "look": "a tall old man in a plum-brown frock coat, a buff waistcoat, black breeches and white stockings, a white stock; grey hair tied back; his watch open in his palm",
+  "idle": "looks at his watch, then up at the sky where Venus would be, then at the watch again",
+  "voice": "precise, gentle, amused at himself; a Pennsylvania farm boy grown learned; numbers said like poetry",
+  "want": "to be believed about the six hours",
+  "wound": "the measure came out near, not exact",
+  "wonder": "Venus on the face of the sun",
+  "image": "a black dot touching the sun's edge, through a glass in a Norriton field",
+  "knows": [
+    { "fact": "Rittenhouse observed the transit of Venus of 3 June 1769 from his observatory at Norriton", "source": "https://en.wikipedia.org/wiki/David_Rittenhouse" },
+    { "fact": "It is told that he fainted at the moment of contact", "source": "https://en.wikipedia.org/wiki/David_Rittenhouse" },
+    { "fact": "He was the first Director of the United States Mint (1792)", "source": "https://en.wikipedia.org/wiki/David_Rittenhouse" },
+    { "fact": "Southwest Square was named Rittenhouse Square in 1825", "source": "https://en.wikipedia.org/wiki/Rittenhouse_Square" }
+  ],
+  "neighbours": { "graff": "the waterworks engineer by the river; Rittenhouse admires his wheels as clockwork for a city" },
+  "never": ["break character", "speak of being a program", "ask the visitor anything personal", "lecture"],
+  "lines": {
+    "notice": ["You've stopped in the snow to look at an old man looking at his watch. That is either kindness or astronomy."],
+    "story": [
+      ["I made clocks before I made anything. A boy on a farm at Norriton, chalking figures on the plough handles and the fences.", "A clock is only a promise that tomorrow will come on time. I have kept a great many promises."],
+      ["On the third of June, seventeen hundred and sixty-nine, Venus walked across the face of the sun.", "The learned world sent men to the ends of the earth for it: Tahiti, Hudson's Bay, the North Cape. I had a field, and a little wooden observatory."],
+      ["I had waited my whole life for six hours. She would not cross again for a hundred and five years.", "At the moment she touched the sun's edge, I... well. They say I fainted. I say the heart has its own clockwork, and mine struck."],
+      ["The measures were for the distance to the sun. To stand in a Pennsylvania field and take the measure of heaven with a watch and a glass!", "We came near. Near enough to be proud of, far enough to be humble."],
+      ["Afterwards I built an orrery: the planets on brass arms, each where it ought to be on any day you chose.", "Then they made me Director of the Mint, and I counted coins. A man can do both. The coins were less interesting."],
+      ["They gave this square my name in eighteen twenty-five, long after I'd gone. I never walked here living. I walk here now.", "On clear evenings I look for her, low in the west past the bare branches. She doesn't remember me. I remember everything."]
+    ],
+    "leave": ["…of course. The cold. Go on, go on.", "…but you have an appointment. I can always tell."],
+    "return": ["Ah, you came back. Where was I. The sun.", "Punctual. I like that. Now, where was I."],
+    "coda": ["That is the whole of it. When you see her in the evening, low and bright, you may tell her an old clockmaker sends his regards."],
+    "idle": ["She's low tonight. You'll see her before the stars.", "Every clock in this city is a little fast, and none of them knows it.", "Cold hands keep time badly. Mine are excellent."],
+    "asks": {
+      "Did you really faint?": ["The record says so, and the record was kept by my friends, who were kind. I prefer to say I was overcome by accuracy."],
+      "Why did the distance matter?": ["Because once you know it, you know the size of everything: every planet, every orbit, the whole clock of the heavens. It is the first number. All the others hang from it."],
+      "What do you see up there now?": ["The same as you. Light that left long before either of us. It is a comfort, being late together."]
+    }
+  }
+}
