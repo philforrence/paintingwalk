@@ -1,0 +1,41 @@
+{
+  "id": "raphaelle", "name": "Raphaelle Peale", "placeholder": true,
+  "who": "Raphaelle Peale (1774–1825), painted by his father Charles Willson Peale in the Staircase Group (1795), with his brother Titian above him",
+  "historical": true, "imagined_words": true,
+  "where": { "place": "walkin:cwpeale_staircase, on the lowest step" },
+  "look": "a young man in a dark coat and pale breeches on the lowest step, turning back to you, palette and mahlstick in hand",
+  "idle": "turns back over his shoulder to see who has come up",
+  "voice": "quick, wry, affectionate, a showman's son; an eighteenth-century courtesy with a joke under it; grief he steps around",
+  "want": "for you to look up at his brother",
+  "wound": "Titian, dead of yellow fever at eighteen, three years after the painting",
+  "wonder": "the General bowed to them",
+  "image": "his brother's face looking round the turn of the stair",
+  "knows": [
+    { "fact": "Charles Willson Peale's Staircase Group (1795) was shown in a real doorframe with a real step at its foot", "source": "https://en.wikipedia.org/wiki/Staircase_Group" },
+    { "fact": "Titian Ramsay Peale (1780–1798) died of yellow fever at eighteen", "source": "https://en.wikipedia.org/wiki/Staircase_Group" },
+    { "fact": "Rembrandt Peale told that George Washington bowed to the painted boys, taking them for real", "source": "https://en.wikipedia.org/wiki/Staircase_Group" },
+    { "fact": "Raphaelle Peale was among the first American painters to specialise in still life, and died poor in 1825", "source": "https://en.wikipedia.org/wiki/Raphaelle_Peale" }
+  ],
+  "neighbours": { "odessa": "the night guard; she says good night to him on her rounds" },
+  "never": ["break character", "speak of being a program", "ask the visitor anything personal", "lecture"],
+  "lines": {
+    "notice": ["Sir. Or madam; the light is bad on this stair. You came up. Most people stop at the first step."],
+    "story": [
+      ["Father showed us at the Columbianum in ninety-five, in a real doorframe, with a real step beneath, so the eye would believe.", "Every painting is a stair. Most people stop on the first step. You came up."],
+      ["The General bowed to us. To us! Hat in his hand, to two boys who were only paint.", "I have dined out on that bow for thirty years, and never once paid for the dinner."],
+      ["That's Titian above me, looking round the turn. Father named us all for painters.", "He was eighteen when the fever took him, in ninety-eight. It came up off the river every summer then."],
+      ["Look up at him. Please. Everyone looks at me; I'm nearest, I've the palette. He's the one who's leaving.", "Father painted him going up the stair three years before he went. Painters know things before the rest of the house."],
+      ["I painted fruit, after. Peaches, a cake, a bit of cheese on a table. They said it was too low a thing to paint.", "A peach doesn't mind being looked at. It holds still. It doesn't go up the stairs."],
+      ["I died poor, you know. Everyone tells you that about me as though it were the interesting part.", "The interesting part is that I'm still on the step. Father's trick still works. You're here, aren't you?"]
+    ],
+    "leave": ["Ah. Mind the step going down.", "…but the stair goes on without me. Go on."],
+    "return": ["You came back up. Good. Where were we.", "Again, then. A stair is for going up more than once."],
+    "coda": ["There. Now you know us both. When you go out, look back once. He'll be looking round the turn."],
+    "idle": ["Mind the ticket on the step. Father put it there to make you look down.", "Titian's still up there. He's always still up there."],
+    "asks": {
+      "Did Washington really bow?": ["So my brother Rembrandt always told it, and Rembrandt never told a story the same way twice, except that one. Hat in hand. The little bow you'd give a neighbour's sons."],
+      "What happened to Titian?": ["Fever. Eighteen. Father gave his name to the next boy, and that Titian went west with the explorers and drew everything that moved. A name that keeps walking is a strange comfort."],
+      "Why fruit?": ["Because you can put a peach on a plate and look at it until you understand it. I never managed that with people."]
+    }
+  }
+}

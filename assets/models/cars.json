@@ -1,0 +1,113 @@
+{
+ "parts": [
+  "paint",
+  "glass",
+  "tyre",
+  "trim",
+  "head",
+  "tail",
+  "hub"
+ ],
+ "models": [
+  {
+   "name": "sedan",
+   "length": 4.75,
+   "width": 1.8,
+   "lods": [
+    {
+     "offset": 0,
+     "vertices": 3462,
+     "indices": 3462,
+     "triangles": 1154
+    },
+    {
+     "offset": 76164,
+     "vertices": 2562,
+     "indices": 2562,
+     "triangles": 854
+    },
+    {
+     "offset": 132528,
+     "vertices": 714,
+     "indices": 714,
+     "triangles": 238
+    }
+   ]
+  },
+  {
+   "name": "hatch",
+   "length": 4.15,
+   "width": 1.78,
+   "lods": [
+    {
+     "offset": 148236,
+     "vertices": 3126,
+     "indices": 3126,
+     "triangles": 1042
+    },
+    {
+     "offset": 217008,
+     "vertices": 2310,
+     "indices": 2310,
+     "triangles": 770
+    },
+    {
+     "offset": 267828,
+     "vertices": 666,
+     "indices": 666,
+     "triangles": 222
+    }
+   ]
+  },
+  {
+   "name": "suv",
+   "length": 4.85,
+   "width": 1.86,
+   "lods": [
+    {
+     "offset": 282480,
+     "vertices": 3378,
+     "indices": 3378,
+     "triangles": 1126
+    },
+    {
+     "offset": 356796,
+     "vertices": 2394,
+     "indices": 2394,
+     "triangles": 798
+    },
+    {
+     "offset": 409464,
+     "vertices": 666,
+     "indices": 666,
+     "triangles": 222
+    }
+   ]
+  },
+  {
+   "name": "bus",
+   "length": 12.2,
+   "width": 2.6,
+   "lods": [
+    {
+     "offset": 424116,
+     "vertices": 2994,
+     "indices": 2994,
+     "triangles": 998
+    },
+    {
+     "offset": 489984,
+     "vertices": 2046,
+     "indices": 2046,
+     "triangles": 682
+    },
+    {
+     "offset": 534996,
+     "vertices": 774,
+     "indices": 774,
+     "triangles": 258
+    }
+   ]
+  }
+ ]
+}

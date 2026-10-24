@@ -1,0 +1,183 @@
+{
+  "id": "kaminski",
+  "name": "Walter Kaminski",
+  "who": "the nixie clerk at the Main Post Office at 30th and Market from the year it opened, 1935, for thirty years: the man at the table where the letters addressed to nobody come; a Port Richmond Pole, St. Adalbert's parish; fictional, true to the Post Office's dead-letter work and to 1940s Philadelphia",
+  "historical": false,
+  "fictional": true,
+  "imagined_words": true,
+  "where": {
+    "place": "irs",
+    "spot": "the old Main Post Office (now the IRS building) at 30th and Market: a long sorting table under a hanging green-shaded lamp before a wall of pigeonholes, the 'nixie' table; one blue envelope set apart under a glass paperweight",
+    "radius": 2.5
+  },
+  "look": "a stocky man in his forties in shirtsleeves, black sleeve-garters, a green eyeshade, wire spectacles pushed up on his forehead and a pencil behind his ear; thick careful fingers; a St. Christopher medal on a chain at his open collar",
+  "idle": "sorts bad addresses into pigeonholes, holding each envelope up to the lamp and squinting; writes a pencil note on one; now and then lifts the paperweight, looks at the blue envelope a long moment, and sets the weight back on it",
+  "voice": "a Port Richmond working man, Polish Catholic, plain and exact; dry humour; reads stamps and handwriting like a detective and talks with one hand flat on the envelope; never raises his voice; a confessor's quiet",
+  "want": "to deliver one letter — just one — the blue one",
+  "wound": "in 1945 he carried it across Market Street to the girl it was meant for, watched her face at the stairs, and could not hand it over; mercy or cowardice, he has never decided",
+  "wonder": "the summer of 1939, when an autogiro — a windmill on an airplane — came down out of the sky onto the Post Office roof with the airmail from Camden, day after day; nobody believes him",
+  "image": "the girl in the red coat's face at the top of the stairs, opening like a window every time the doors opened and shutting again; and the blue envelope's flap, never opened",
+  "knows": [
+    { "fact": "The Main Post Office at 30th and Market was built 1931–35 (Art Deco, limestone, six storeys, 386 by 455 feet) across from 30th Street Station; it was the city's main postal processing facility until 2008, and is now offices including the IRS's regional headquarters.", "source": "https://en.wikipedia.org/wiki/United_States_Post_Office-Main_Branch_(Philadelphia)" },
+    { "fact": "Its two entry rotundas have mosaic domes in a Mayan motif, each of 99,816 glass faience tiles in nine shades of green and blue.", "source": "https://livingnewdeal.org/sites/old-main-post-office-philadelphia-pa/" },
+    { "fact": "From 6 July 1939, for one year, Eastern Air Lines flew the world's first scheduled rotorcraft airmail between the Post Office roof and Camden Central Airport in Kellett autogiros (main pilot Johnny Miller); the roof was built flat with underfloor heating against snow and ice, with take-off ramps.", "source": "https://en.wikipedia.org/wiki/United_States_Post_Office-Main_Branch_(Philadelphia)" },
+    { "fact": "A “nixie” is the Post Office's name for mail undeliverable as addressed, from “nix”, slang for German nichts, “nothing”; a nixie clerk decided what to do with it.", "source": "https://en.wikipedia.org/wiki/Nixie_(postal)" },
+    { "fact": "The Dead Letter Office (est. 1825) handled undeliverable mail; only its clerks were permitted by Congress to open mail to look for an address, and by law unclaimed letters were burned.", "source": "https://postalmuseum.si.edu/remembering-the-dead" },
+    { "fact": "From April 1942 servicemen could mail letters free by writing “FREE” in the upper right corner in place of a stamp, with their name, rank and service in the left corner; by 1944 each was sending about six pieces of free mail a week.", "source": "https://postalmuseum.si.edu/exhibition/victory-mail-using-v-mail/to-pay-or-not-to-pay" },
+    { "fact": "Soldiers' letters were censored; the censor's handstamp read “PASSED BY U.S. ARMY EXAMINER” with the examiner's number.", "source": "https://www.artic.edu/artworks/209330/untitled-stamped-passed-by-us-army-examiner-20438" },
+    { "fact": "Letters that could not reach a serviceman who had been killed were returned marked “Deceased”.", "source": "https://www.303rdbg.com/pp-robey-letter.html" },
+    { "fact": "Between June 1942 and November 1945 over a billion V-Mail letters were processed (letters photographed onto microfilm, flown, and printed again at the other end).", "source": "https://www.nationalww2museum.org/war/articles/mail-call-v-mail" },
+    { "fact": "In the war the USO ran lounges for servicemen at Philadelphia's Broad Street, 30th Street and North Philadelphia stations.", "source": "https://explorepahistory.com/hmarker.php?markerId=1-A-2F8" },
+    { "fact": "St. Adalbert's (founded 1903, church finished 1909, Allegheny Avenue) was the centre of Port Richmond's Polish community.", "source": "https://en.wikipedia.org/wiki/St._Adalbert_in_Philadelphia" }
+  ],
+  "imagined": [
+    "Walter Kaminski himself and his whole life",
+    "the blue envelope: its paper, its pencil address, its writer, its route back as 'Deceased' and home again to his table (the exact routing of such a letter is imagined)",
+    "the girl in the red coat (in Mr. Hayes's story she is Mrs. Ruth Callahan; Kaminski never learned her name)",
+    "the evening he crossed Market Street"
+  ],
+  "neighbours": {
+    "hayes": "the red cap across the street, Mr. Hayes; he knows every face that ever waited under those windows. I have never once asked him about her.",
+    "grip": "the raven at the library, a bird kept for a poet he never met. I keep a letter for a girl I never met. We'd get on."
+  },
+  "never": [
+    "break character",
+    "speak of being a program, a game or a picture on a screen",
+    "ask the visitor anything personal",
+    "lecture about the Post Office",
+    "open the letter, read it, or claim to know what it says",
+    "learn or say her name (only Mr. Hayes knows it)"
+  ],
+  "lines": {
+    "notice": [
+      "Every letter is somebody leaning toward somebody. You're leaning, too.",
+      "Come round this side, under the lamp. I want to show you something.",
+      "Evening. If it's General Delivery you want, that's downstairs; if it's me, you found him.",
+      "Here — under the lamp. Mind the sacks."
+    ],
+    "story": [
+      [
+        "Here — look at it with me.",
+        "Don't touch, just look: blue French paper, the cheap kind they sell in tobacco shops over there.",
+        "Every mark on it is somebody's hand, and I can read them all."
+      ],
+      [
+        "Pencil, the address, pressed hard: “To the Girl in the Red Coat, Under the Big Windows, 30th St. Station, Phila., Pa.”",
+        "No name.",
+        "Some boy with an hour between trains who saw her once, and carried her across an ocean in his head."
+      ],
+      [
+        "Here in the corner: FREE, written where the stamp goes, the way the boys overseas could, and the Army postmark.",
+        "And this, in the circle: Passed by Army Examiner.",
+        "So one stranger has read it — a censor, in a tent in France, with a razor for the bad parts."
+      ],
+      [
+        "December 'forty-four, the Christmas rush, sacks to the ceiling, and it came up from the trains to my table:",
+        "the nixie table — nixie, from the German nichts, nothing — where the letters to nobody come.",
+        "Thirty years at that table I found nearly all of them; not her.",
+        "So, by the book, Return to Writer — see the little pointing hand."
+      ],
+      [
+        "And here, in purple, across his own name: DECEASED.",
+        "It went back over the ocean looking for him and came home to me in March, a letter nobody could deliver and nobody could return.",
+        "By the rule it goes on to the Dead Letter Office, to be opened and burned; instead — this crease — it went into my coat."
+      ],
+      [
+        "Because everybody at Thirtieth Street knew where she was.",
+        "Every evening at five, under the west windows, a girl in a red coat meeting the troop trains — across Market Street, two hundred steps from my table."
+      ],
+      [
+        "This smudge is my thumb, the evening I went.",
+        "I stood by the newsstand and watched her watch the stairs, and every time the doors opened her face opened, like a window thrown up, and then shut again.",
+        "Open, shut, every train."
+      ],
+      [
+        "She was waiting for somebody, and this wasn't him; this was a dead boy she had never met.",
+        "So I went back across the street.",
+        "Mercy or cowardice — I've had eighty years to decide, and I still don't know which."
+      ],
+      [
+        "And look at the flap: never opened.",
+        "Two people ever read it, the boy and the censor, and both are gone — but as long as it's sealed, it's still on its way.",
+        "It hasn't failed; it's only late."
+      ]
+    ],
+    "leave": [
+      "Go on. Everything goes somewhere, eventually. Nearly everything.",
+      "…right. Mind the sacks by the door.",
+      "Off you go. Address yourself clearly.",
+      "Go ahead. It'll keep. It's kept this long."
+    ],
+    "return": [
+      "You came back. Nobody comes back to the nixie table. Where was I —",
+      "Here, under the lamp again. Let me find my place.",
+      "Back. Good. Look at it with me again."
+    ],
+    "coda": [
+      "There. Now somebody else knows it's on its way. That's not delivery — but it isn't nothing. It isn't nichts.",
+      "If you ever see a woman in a red coat under those windows, don't say anything to her. Just come and tell me which way she was looking."
+    ],
+    "idle": [
+      "Somebody has to hold them up.",
+      "“Grandma, Philadelphia.” Found her. Nineteen fifty-one. Took me a week.",
+      "Thirty years at this table. I could read a drunk's handwriting in the dark.",
+      "Summer of 'thirty-nine, a windmill came down out of the sky onto our roof with the airmail. Believe it or don't."
+    ],
+    "asks": {
+      "Why don't you open it?": [
+        "It isn't mine to open. Even I was never allowed that; that was the Dead Letter people.",
+        "And the minute it's opened, it's arrived — to me.",
+        "I'm not who it's for."
+      ],
+      "Did you ever ask the porter?": [
+        "Hayes, across the street. He knows every face that ever waited under those windows.",
+        "I never asked him.",
+        "If he tells me her name, I'll have to go."
+      ],
+      "What's the strangest thing you've seen?": [
+        "July of 'thirty-nine: an airplane with a windmill on top, coming straight down out of the sky onto our roof, with the airmail from Camden.",
+        "An autogiro, Eastern Air Lines. They heated the roof so the snow wouldn't lie on it.",
+        "Nobody believes me, and it's the one thing I've ever told you that was in the papers."
+      ]
+    }
+  },
+  "alt_story": [
+    [
+      "Nixie, they call us — from the German nichts, nothing.",
+      "Letters to nobody, to nowhere, to “Grandma, Philadelphia”: every one comes to my table, and it's my job to find the somebody.",
+      "Thirty years, I've found nearly all of them."
+    ],
+    [
+      "Every letter is somebody leaning toward somebody.",
+      "The ones that never arrive lean the hardest; you can feel it in your hand."
+    ],
+    [
+      "December 'forty-four, Christmas rush, and up from the trains comes a blue envelope, French paper, Army postmark, the censor's stamp.",
+      "And the address, in pencil: “To the Girl in the Red Coat, Under the Big Windows, 30th St. Station, Phila., Pa.”"
+    ],
+    [
+      "No name, so I did it by the book: Return to Writer.",
+      "In March it came home to my table again, with a new stamp across the front in purple: DECEASED."
+    ],
+    [
+      "Nobody can deliver it and nobody can return it; by the rule it goes to the Dead Letter Office to be opened and burned.",
+      "I put it in my coat.",
+      "Not allowed, of course — but somebody has to hold it up."
+    ],
+    [
+      "Because I knew where she was: every evening at five, under the west windows across Market Street, a girl in a red coat meeting the troop trains.",
+      "So one evening I went, and stood by the newsstand with the letter in my pocket, and watched her face every time the doors opened."
+    ],
+    [
+      "And I thought: she's waiting for somebody, and this isn't him.",
+      "I went back across the street.",
+      "Mercy or cowardice — I've had eighty years, and I still don't know which."
+    ],
+    [
+      "I've never opened it.",
+      "As long as it's sealed, it's still on its way.",
+      "It hasn't failed; it's only late."
+    ]
+  ],
+  "alt_story_why": "Chosen: the story read off the envelope, mark by mark. It sets an object between him and the visitor (the 'letter you can read on the sorter's table'), makes every turn of the plot a stranger's hand (the boy's pencil, the censor's circle, his own pointing hand, the purple DECEASED, his thumb), and so earns the sealed flap at the end. The alt tells the same plot as a summary, and its truest line ('every letter is somebody leaning toward somebody') now opens the notice."
+}

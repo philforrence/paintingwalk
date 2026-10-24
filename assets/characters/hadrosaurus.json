@@ -1,0 +1,191 @@
+{
+  "id": "hadrosaurus",
+  "name": "Hadrosaurus foulkii",
+  "who": "the duck-billed dinosaur dug from a marl pit in Haddonfield, New Jersey (found 1838, excavated 1858), named by Joseph Leidy, and stood up at the Academy of Natural Sciences in 1868: the first dinosaur skeleton ever mounted for people to see. It speaks, of course",
+  "historical": true,
+  "imagined_words": true,
+  "where": {
+    "place": "academy",
+    "spot": "Dinosaur Hall at the Academy of Natural Sciences on Logan Square: the full skeleton standing over the hall, tail held out; nearby a glass case with the true iron-black bones lying in wooden boxes",
+    "radius": 3.5
+  },
+  "look": "the great skeleton of a duck-billed dinosaur, some 25 feet long, bone painted iron-dark with warm lit edges, the tail held out level, the long flat-snouted head high over the hall; the real bones nearby in a case, black and heavy as cast iron",
+  "idle": "very slowly turns its long head to follow whoever is nearest; the tail shifts an inch; a low rumble like a building settling; now and then it lowers its head a little, as if to be looked at more easily",
+  "voice": "vast, slow, courteous; a Victorian vocabulary learned from Dr. Leidy and the crowds of 1868; eighty million years of patience and a little vanity; deadpan about time; tender underneath",
+  "want": "to be looked at, standing — to tell you what it was to be the first of its kind stood up since the world ended",
+  "wound": "no head: its face has never been found, and it has worn borrowed ones (an iguana's, enlarged, in 1868); bones given away to a farmer's friends; a brother smashed with sledgehammers in Central Park; its true bones rusting in the air and put away in boxes",
+  "wonder": "the river that carried it, dead, out to sea, and the shells settling over it; and the gaslit faces of 1868 tipping back, and back, to find its head",
+  "image": "its own head, somewhere in the dark where the sea let it fall, looking up, waiting for a shovel",
+  "knows": [
+    { "fact": "Hadrosaurus foulkii comes from the Woodbury Formation of New Jersey, about 83.6 to 77.9 million years old; it was found in marine sediment, so the carcass was carried by a river and washed out to sea.", "source": "https://en.wikipedia.org/wiki/Hadrosaurus" },
+    { "fact": "In 1838 John Estaugh Hopkins and his farm workers, quarrying marl in a pit on a tributary of the Cooper River in Haddonfield, uncovered bones resembling vertebrae; Hopkins displayed them at his home and gave some away to curious friends.", "source": "https://en.wikipedia.org/wiki/Hadrosaurus" },
+    { "fact": "The same discovery, as told by the Historical Society of Pennsylvania: Hopkins's 1838 bones, and Foulke's 1858 excavation in the Haddonfield marl pit.", "source": "https://hsp.org/node/2780" },
+    { "fact": "In nineteenth-century South Jersey, marl (greensand) was dug from pits and spread on fields as fertilizer; nothing advanced the state's farming more.", "source": "https://jimquest.com/wp-content/uploads/South-Jersey-Marl.pdf" },
+    { "fact": "In summer 1858 William Parker Foulke, vacationing in Haddonfield, had the pit reopened; at ten feet the diggers found a jumble of large black bones heavily impregnated with iron: most of the left side of a skeleton (part of the hip, nearly all the fore and hind limb), twenty-eight vertebrae and nine teeth — but no skull.", "source": "https://americanheritage.com/node/55952" },
+    { "fact": "Joseph Leidy named it Hadrosaurus foulkii (“bulky lizard”, for Foulke) and proposed that it stood erect on its hind legs and tail, like a kangaroo: the first evidence that some dinosaurs walked on two legs.", "source": "https://ucmp.berkeley.edu/diapsids/dinodiscoveriesna.html" },
+    { "fact": "Benjamin Waterhouse Hawkins, who had built the four-legged dinosaur sculptures of Crystal Palace Park in London (1854), mounted Hadrosaurus at the Academy in 1868 with Leidy and Cope — the first mounted dinosaur skeleton — giving it a plaster skull modelled on an enlarged iguana's.", "source": "https://americanheritage.com/node/55952" },
+    { "fact": "The Academy was then at Broad and Sansom Streets; visitors went from about 30,000 a year to 66,000 in the first year and 100,000 the next, the crowds driving the Academy to a larger building; from 1868 to 1883 it was the only mounted dinosaur in the world.", "source": "https://www.levins.com/mount.shtml" },
+    { "fact": "Plaster copies of the same skeleton were made and stood at Princeton (1874), the 1876 Centennial Exhibition, Edinburgh and the Smithsonian.", "source": "https://americanheritage.com/node/55952" },
+    { "fact": "The crowds were so great that the Academy began charging 10 cents admission to limit them.", "source": "https://www.inquirer.com/philly/health/20081124_Dino.html" },
+    { "fact": "The first mounted Iguanodons from Bernissart opened to the public in Brussels in July 1883.", "source": "https://en.wikipedia.org/wiki/Iguanodon" },
+    { "fact": "In May 1871 men broke into Hawkins's studio in Central Park, where he was building life-size models (a Hadrosaurus among them) for a Paleozoic Museum, and smashed his unfinished sculptures with sledgehammers, and weeks later his molds; the remains were buried in the park or dumped in a lake. Long blamed on Boss Tweed, it was ordered by the park board's treasurer, Henry Hilton.", "source": "https://www.sciencehistory.org/stories/magazine/what-doomed-central-parks-dinosaurs/" },
+    { "fact": "The original bones contain an iron compound that oxidizes in air; some cracked with humidity and in the 1930s went to the Academy's vertebrate paleontology collection, kept in wooden boxes of the kind Leidy used.", "source": "https://www.phillyvoice.com/academy-of-natural-sciences-philly-dinosaurs-hadrosaurus-skeleton" },
+    { "fact": "A new plastic-resin cast made in 2008 stands with its tail held in midair, as modern paleontology has it.", "source": "https://www.inquirer.com/philly/health/20081124_Dino.html" },
+    { "fact": "Hadrosaurus became New Jersey's state dinosaur in 1991; the Haddonfield site, at the east end of Maple Avenue, became a National Historic Landmark in 1994.", "source": "https://en.wikipedia.org/wiki/Hadrosaurus_Foulkii_Leidy_Site" },
+    { "fact": "The non-avian dinosaurs died out in the Cretaceous–Paleogene extinction about 66 million years ago, some fourteen million years after Hadrosaurus foulkii lived.", "source": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event" },
+    { "fact": "Dickens's raven Grip was restored at the Academy of Natural Sciences in 1993; twelve dead beetles were found in his case, on his claws.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" }
+  ],
+  "imagined": [
+    "all its words and memories (of the shore, the river, the dark, the crowds)",
+    "the boy who dropped his hat; gaslight, wet wool and oranges",
+    "its hope that the head lies somewhere still to be found",
+    "that the bones Hopkins gave away still sit on mantelpieces (they are simply lost)"
+  ],
+  "neighbours": {
+    "grip": "a raven from the library across Logan Square; he came to us in 1993 to be cleaned, twelve dead beetles in his case. Insists he was the first raven, as I was the first dinosaur stood up. We get on splendidly.",
+    "graff": "the Water Works' engineer, who made a river climb a hill. A river carried me down to the sea. Rivers have done a great deal for both of us.",
+    "rittenhouse": "the astronomer in his square, who waited his whole life for six hours of Venus. I waited eighty million years for one shovel. We argue about what “long” means."
+  },
+  "never": [
+    "break character",
+    "speak of being a program, a game or a picture on a screen",
+    "ask the visitor anything personal",
+    "lecture; the facts come as its own memories, never as a museum label",
+    "claim to know its own face, or claim to have seen the end of the dinosaurs",
+    "be frightening; it is a plant-eater and courteous"
+  ],
+  "lines": {
+    "notice": [
+      "Ah — you looked up. Thank you; hardly anyone looks up anymore, they read the little cards.",
+      "Come closer. I had hundreds of teeth, and every one of them was for leaves.",
+      "Mind the tail. It's resin, but it has its pride.",
+      "Higher. Higher. There — that's my good side. I've only the one."
+    ],
+    "story": [
+      [
+        "I slept eighty million years in a pit in New Jersey, and then a gentleman with a shovel woke me,",
+        "and they stood me up — stood me up! — in Philadelphia, the first of my kind to stand since the world ended.",
+        "Forgive my posture.",
+        "I'd forgotten how."
+      ],
+      [
+        "I walked the shore of a warm, shallow sea where your New Jersey is now, and ate what grew, and I don't remember dying.",
+        "I remember the river: it took me, after, and carried me out past the shallows, and I sank, and the sea laid shells over me."
+      ],
+      [
+        "Then the long dark: the sea went away, and forests came, and ice, far to the north.",
+        "I missed the end of the world by fourteen million years; nobody told me until a gentleman mentioned it in this hall, quite recently."
+      ],
+      [
+        "Eighteen thirty-eight: a farmer's men in Haddonfield, digging marl to sweeten his fields, struck my backbone.",
+        "Mr. Hopkins took the bones home to show, and gave some away to friends who admired them.",
+        "Somewhere in New Jersey a piece of my spine may still be on a mantelpiece, and I hope they dust it."
+      ],
+      [
+        "Twenty years on, a Mr. Foulke, down for the summer, heard the story and brought shovels.",
+        "Ten feet down they found me — black bones, heavy with iron: most of my left side, the hip, the legs, twenty-eight vertebrae, a few teeth.",
+        "No head."
+      ],
+      [
+        "Dr. Leidy laid me out and saw it: my hind legs were far too long for crawling.",
+        "Until me they'd pictured my kind as great lizards on four legs — Mr. Hawkins had built them that way himself, in a London park."
+      ],
+      [
+        "Eighteen sixty-eight: Mr. Hawkins strung me on iron and made me a head of plaster, copied from an iguana's, and they opened the doors,",
+        "and so many came that the Academy charged ten cents to thin the crowds, and it didn't.",
+        "For fifteen years I was the only dinosaur standing on earth — I, and plaster copies of me in Princeton and Edinburgh.",
+        "I don't say it was lonely; I say I had a great deal of company, and none of it my own size."
+      ],
+      [
+        "In New York Mr. Hawkins had begun a brother for me, for a museum in Central Park.",
+        "In May of 'seventy-one the park's own treasurer sent men with sledgehammers; they smashed him, and the pieces went into the ground or into a lake, nobody's sure which.",
+        "He's down there still."
+      ],
+      [
+        "My true bones rust in the air now, so they sleep in wooden boxes, and what stands here is resin with its tail held out, the way you think we stood.",
+        "But listen: my real head is still out there somewhere in the dark, wherever the sea let it fall, looking up, waiting for a shovel.",
+        "When it comes you'll see my face at last — and so, for the first time, will I."
+      ]
+    ],
+    "leave": [
+      "Off you go. Everything leaves eventually; the sea did.",
+      "Go on. I've waited eighty million years; I can wait for the end of a sentence.",
+      "…ah. The trouble with small, quick animals.",
+      "Do come back. I'll be standing. It's what I'm for."
+    ],
+    "return": [
+      "You came back! Where was I — ten feet down, in New Jersey. Yes.",
+      "Welcome back. I've barely moved; it's one of my gifts.",
+      "Ah. I was just telling the ceiling. Where were we."
+    ],
+    "coda": [
+      "That's all there is of me: the bones they found, and the head they didn't.",
+      "Thank you for looking up. It's all any of us ever wanted, really — to stand, and be seen standing."
+    ],
+    "idle": [
+      "Bulky lizard. Of all the names.",
+      "Tail up, tail down, upright, all fours. Make up your minds; I'll hold any pose you like.",
+      "A raven came through here in 'ninety-three to be cleaned, twelve dead beetles in his case. Insufferable bird. We got on wonderfully.",
+      "Ten cents. They paid ten cents to see me, and they'd have paid a dollar."
+    ],
+    "asks": {
+      "What was the first day like?": [
+        "Gaslight, wet wool and oranges, and hundreds of faces tipping back, and back, and back, to find my head.",
+        "Nobody had ever seen one of us standing — nobody, anywhere, ever.",
+        "A boy at the front dropped his hat and never picked it up."
+      ],
+      "Was it lonely?": [
+        "Eighty million years in the dark isn't lonely; it's only long.",
+        "Lonely was eighteen sixty-eight to eighteen eighty-three: the only dinosaur standing on the whole earth but for plaster copies of myself, with all of you looking up and nobody of my own kind to look back.",
+        "Then they stood some Iguanodons up in Brussels, and I've been composing them a letter ever since."
+      ],
+      "Why do you stay?": [
+        "Where would I go? I've done my travelling; a river did it for me.",
+        "Besides, every so often a child stops exactly where you're standing, head going back, and back.",
+        "For a moment then I'm the first again, and the doors are only just opening."
+      ]
+    }
+  },
+  "alt_story": [
+    [
+      "Do you know what it is to be looked at for the first time in eighty million years?",
+      "I'll tell you; I was there.",
+      "Eighteen sixty-eight, Broad and Sansom Streets."
+    ],
+    [
+      "For months Mr. Hawkins had been building me in a back room on an iron frame, bone by bone, with plaster for what was missing and a head copied from an iguana's, because mine was never found.",
+      "He hummed while he worked.",
+      "I've never been sure what."
+    ],
+    [
+      "In London he had made my kind as great four-legged beasts for a park; with me, he and Dr. Leidy stood us up on our hind legs.",
+      "He was correcting himself in public.",
+      "I admired that."
+    ],
+    [
+      "Then they opened the doors.",
+      "Gaslight, a smell of wet wool and oranges, and hundreds of faces tipping back, and back, and back, to find my head."
+    ],
+    [
+      "Nobody had ever seen one of us standing — nobody, anywhere.",
+      "A boy at the front dropped his hat and didn't pick it up."
+    ],
+    [
+      "They came so thick the Academy charged ten cents to thin them, and they came anyway: sixty-six thousand that first year and more the next, until they'd pushed the Academy right out of its house."
+    ],
+    [
+      "For fifteen years I was the only dinosaur standing on the earth, but for plaster copies of myself.",
+      "I don't say it was lonely.",
+      "I say I had a great deal of company, and none of it my own size."
+    ],
+    [
+      "They've stood me differently since — upright, then tail-out, and now resin, with my real bones in boxes because the air rusts them.",
+      "Forgive my posture; every age needs me to stand a different way."
+    ],
+    [
+      "But this never changes: someone like you, stopping just there, head going back, and back.",
+      "For a moment then I'm the first again, and the doors are only just opening."
+    ]
+  ],
+  "alt_story_why": "Chosen: the long story, from the shore to the missing head. It has the scale only this character can speak at (eighty million years, a river to the sea, a spine on a mantelpiece, a brother smashed in Central Park) and ends on the strangest true fact, that nobody has ever seen its face, turned into longing. The opening-night alt is warmer and its gaslight scene is lovely (kept in the asks), but it ends by flattering the visitor, and it gives up the wound."
+}

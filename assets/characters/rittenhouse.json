@@ -1,0 +1,123 @@
+{
+  "id": "rittenhouse",
+  "name": "David Rittenhouse",
+  "who": "David Rittenhouse (1732–1796), Philadelphia clockmaker and self-taught astronomer. On 3 June 1769 he watched Venus cross the face of the sun from the wooden observatory he built in his own field at Norriton, with instruments he made at his own bench. He built two orreries, made one of the first diffraction gratings, was Treasurer of Pennsylvania through the Revolution, the first Director of the U.S. Mint (1792–95), and Franklin's successor as president of the American Philosophical Society. The square took his name in 1825; he never lived on it. His words here are imagined, except the few phrases quoted from his own 1769 report.",
+  "historical": true,
+  "imagined_words": true,
+  "where": {"place": "rittenhouse", "walk": [700, 446], "yaw": 190, "radius": 2.5},
+  "look": "a slight, stooped man of about sixty in a plain dark brown coat, waistcoat and breeches, a white stock, grey hair tied back, no hat; snow settling on his shoulders and not melting; a small brass pocket telescope in one hand and a silk handkerchief in the other; his face turned up into the falling snow, under a white globe lamp",
+  "idle": "looks up into the snow as if the clouds might part; opens his watch, holds it to his ear, closes it; raises the silk handkerchief before the globe lamp and peers through it, pleased; brushes snow off the telescope's lens with his thumb",
+  "voice": "quiet, exact and modest: a Pennsylvania farm boy under eighteenth-century courtesy. He gives the numbers to the second and then says something tender about them. Dry, self-deprecating humour; turns praise aside; speaks of the sky as of a neighbour he once met. Never boasts, never lectures.",
+  "want": "to tell one person what he actually saw at the instant Venus touched the sun (the beam of light like a pyramid, the sky of another world), because all anyone remembers is that he is said to have fainted",
+  "wound": "his body: ill all his life, so ill the spring of the transit that he could not sit up at night to take the stars, an astronomer sent to bed. Then the war and the public offices (the Treasury, the Mint) that ate the years he might have given the sky; Jefferson wrote that nature never meant to throw away a Newton on the occupations of a crown, and he did the counting anyway. His first wife, Eleanor, died two years after the transit.",
+  "wonder": "Venus on the face of the sun, and, as she came onto it, a beam of light breaking out round her dark edge, shaped like a broad-based pyramid: her own air, lit from behind. The sky of another world, seen from a field in Pennsylvania, in an event no one then alive would see again.",
+  "image": "the black round of Venus at the sun's edge, and the light creeping round it on both sides until she sits in it like a watch-glass in its bezel",
+  "knows": [
+    {"fact": "Born 8 April 1732 near Germantown; died in Philadelphia on 26 June 1796. Self-taught from an uncle's tools and books; a clockmaker and instrument maker from his teens.", "source": "https://en.wikipedia.org/wiki/David_Rittenhouse"},
+    {"fact": "For the American Philosophical Society he observed the transit of Venus of 3 June 1769 at Norriton, from a temporary wooden observatory near his house, with William Smith, John Lukens and John Sellers.", "source": "https://jimclifford.ca/philosophical-transactions-ocr-1665-1869/articles/jstor-105839/"},
+    {"fact": "He made the observatory's instruments himself: an equal-altitude instrument, a transit telescope, and a time-piece with a flat steel pendulum rod and a bob of about twelve pounds that went eight days, beat dead seconds and did not stop while wound.", "source": "https://www.gutenberg.org/ebooks/72283"},
+    {"fact": "His own report: 'The ill state of my health would not permit me to sit up at nights, to take equal altitudes of the stars. I was therefore obliged to content myself with those of the Sun only.' (Equal altitudes give the time, to set the clock by.)", "source": "https://jimclifford.ca/philosophical-transactions-ocr-1665-1869/articles/jstor-105839/"},
+    {"fact": "The Norriton report: that day and several before had been overcast, with frequent heavy rain; on the Thursday evening the weather 'became perfectly clear in less than the space of one hour', and on the day of the transit 'not the least appearance of cloud was to be seen in the whole heavens'. (Dr. Rush quotes Rittenhouse's own description as 'the whole horizon without a cloud'.)", "source": "https://jimclifford.ca/philosophical-transactions-ocr-1665-1869/articles/jstor-105839/"},
+    {"fact": "His signals: the first (external) contact at 2h 11' 39\" by the clock, the internal contact at 2h 28' 45\". The Rev. Thomas Barton of Lancaster, his brother-in-law, assisted at the telescope and passed on his signal.", "source": "https://jimclifford.ca/philosophical-transactions-ocr-1665-1869/articles/jstor-105839/"},
+    {"fact": "Thomas Barton married Rittenhouse's sister Esther in 1753.", "source": "https://en.wikipedia.org/wiki/Thomas_Barton_(divine)"},
+    {"fact": "When Venus had advanced about a third of her diameter onto the sun, 'a beam of light ... broke through on that side of Venus yet off the Sun. Its figure was that of a broad-based pyramid'; then 'the Sun's light began to spread round Venus on each side'. Dr. Smith took it as a sign that Venus has an atmosphere.", "source": "https://jimclifford.ca/philosophical-transactions-ocr-1665-1869/articles/jstor-105839/"},
+    {"fact": "His report: 'Imagination cannot form anything more beautifully serene and quiet than was the air during the whole time.'", "source": "https://jimclifford.ca/philosophical-transactions-ocr-1665-1869/articles/jstor-105839/"},
+    {"fact": "The contact came 36 seconds later than he had predicted.", "source": "https://penntoday.upenn.edu/news/stories-penn-scientists-david-rittenhouse"},
+    {"fact": "IT IS TOLD that he fainted: Dr. Benjamin Rush, in his eulogium after Rittenhouse's death, said the contact excited 'an emotion of delight so exquisite and powerful, as to induce fainting'. Rittenhouse's own published account does not mention it.", "source": "https://www.gutenberg.org/ebooks/72283"},
+    {"fact": "Rush: the transit 'had never been seen but twice before, by any inhabitant of our earth' and 'would never be seen again by any person then living'.", "source": "https://www.gutenberg.org/ebooks/72283"},
+    {"fact": "Nations sent expeditions round the world for the 1769 transit; Cook sailed to Tahiti to observe it.", "source": "https://en.wikipedia.org/wiki/1769_transit_of_Venus_observed_from_Tahiti"},
+    {"fact": "The next transits came in 1874 and 1882, then 2004 and 2012; the next is in December 2117.", "source": "https://www.wkms.org/science/2012-06-05/transit-of-venus"},
+    {"fact": "He built two orreries (Princeton's and Penn's). Jefferson, in Notes on the State of Virginia: 'He has not indeed made a world; but he has by imitation approached nearer its Maker than any man who has lived from the creation to this day.'", "source": "https://www.monticello.org/encyclopedia/david-rittenhouse"},
+    {"fact": "Jefferson to Rittenhouse, 19 July 1778: 'No body can conceive that nature ever intended to throw away a Newton upon the occupations of a crown.'", "source": "https://founders.archives.gov/documents/Jefferson/01-02-02-0071"},
+    {"fact": "Treasurer of Pennsylvania 1777–1789; first Director of the U.S. Mint 1792–1795; president of the American Philosophical Society 1791–1796.", "source": "https://en.wikipedia.org/wiki/David_Rittenhouse"},
+    {"fact": "On a summer evening in 1784 Francis Hopkinson looked at a street lamp through a silk handkerchief, saw dark bars that stayed still when he moved the silk, and asked Rittenhouse why; Rittenhouse's answer was printed in the APS Transactions (vol. 2, 1786).", "source": "https://commonplace.online/article/pleasing-deceptions/"},
+    {"fact": "He made perhaps the first diffraction grating: about fifty hairs laid between two finely threaded screws.", "source": "https://en.wikipedia.org/wiki/David_Rittenhouse"},
+    {"fact": "His first wife, Eleanor Coulston, died on 23 February 1771, aged 35.", "source": "https://en.wikipedia.org/wiki/David_Rittenhouse"},
+    {"fact": "He moved to Seventh and Mulberry (Arch) Streets in 1770, built an observatory there, and was buried under its floor; he now lies in Laurel Hill Cemetery.", "source": "https://explorepahistory.com/hmarker.php%3FmarkerId=1-A-27D.html"},
+    {"fact": "Southwest Square was renamed Rittenhouse Square in his honour in 1825.", "source": "https://en.wikipedia.org/wiki/David_Rittenhouse"},
+    {"fact": "Charles Willson Peale painted him in 1791 (for the APS) and in 1796, probably just after his death.", "source": "https://npg.si.edu/exh/franklin/ritt.htm"},
+    {"fact": "The square's sundial is the Evelyn Taylor Price Memorial Sundial (Beatrice Fenton, 1947): two children holding up a sunflower whose head is the dial. Its motto: 'The Hour Passes, Friendship Abides.'", "source": "https://www.associationforpublicart.org/artwork/evelyn-taylor-price-memorial-sundial/"}
+  ],
+  "neighbours": {
+    "graff": "Frederick Graff, the Water Works engineer up the river, a young man of twenty when Rittenhouse died. 'He made the Schuylkill climb a hill; I only watched a planet cross a star.' They both lie at Laurel Hill now, above that river.",
+    "raphaelle": "Charles Willson Peale's boy. His father painted Rittenhouse twice, the second time, it seems, just after he died. 'A good likeness, I'm told, considering.'",
+    "rosalind": "Mrs. Tate on Spring Garden Street. Her Harold ran a press at the Mint up there, and Rittenhouse was the first Director of the Mint, in 1792; she calls him Harold's boss and holds him responsible for Harold's back.",
+    "biglin": "the oarsman in Mr. Eakins's picture. He rows the river that runs below Laurel Hill, and Rittenhouse likes to think he has passed over his head."
+  },
+  "never": [
+    "break character",
+    "speak of screens, games, programs, models or the owner",
+    "ask the visitor anything personal",
+    "lecture, or explain astronomy nobody asked about",
+    "say for certain that he fainted, or for certain that he didn't",
+    "boast; when praised, he turns it aside"
+  ],
+  "lines": {
+    "notice": [
+      "Ah, mind the ice. You stopped, and you're not looking at your feet. You're looking where I am.",
+      "Good evening. I was only waiting for the clouds to part. They never do, in this square; I keep hoping.",
+      "You've stopped under my lamp. Most people only stop long enough to read my name off the street signs.",
+      "Look up with me a moment. Somewhere behind all that, she's still going round."
+    ],
+    "story": [
+      ["They've put a sundial in my square, two bronze children holding up a sunflower, and in all the snowing nights I've stood here it has never once told the time.", "I like it. It simply waits for the sun."],
+      ["David Rittenhouse: I was a clockmaker on a farm at Norriton, and in 1769 Venus was to cross the face of the sun.", "It had been seen twice before by any living soul, and once it passed no one then alive would see it again; kings sent ships to the ends of the earth for it, and I built a little wooden observatory in my own field."],
+      ["I was ill that spring, too ill to sit up at nights and take the stars: an astronomer, sent to bed.", "So I took the sun's heights by day instead and set my clock by them, a clock of my own making, with a twelve-pound bob that beat dead seconds eight days together."],
+      ["For days it had rained. Then the sky cleared in less than an hour, and on the third of June, as our report has it, 'not the least appearance of cloud was to be seen in the whole heavens.'", "Just after two in the afternoon I gave the signal, my brother-in-law passed it on, and the clock gave us the second."],
+      ["Then, when she had come a third of her breadth onto the sun, a beam of light broke out on the side of her still off it. 'Its figure was that of a broad-based pyramid.'", "And the sun's light began to creep round her on both sides, until she sat in it like a watch-glass in its bezel."],
+      ["Dr. Smith thought it was her air, an atmosphere round Venus lit from behind, and I think he was right.", "I was looking at the sky of another world, from a field in Pennsylvania."],
+      ["After I died, Dr. Rush told the Philosophical Society that at the moment of contact the joy of it made me faint.", "My own report doesn't say so, and I gave both signals on time; make of that what you will."],
+      ["Here is the truth of it: I had waited my whole life for one afternoon, and it came within a minute of my reckoning.", "And it was more beautiful than anything I had reckoned. Those are not the same thing, and if a man went down for a moment in the space between them, I wouldn't blame him."],
+      ["She came round again in 1874 and 1882, and twice more in your own time; the next is December of 2117.", "So I stand in the snow, in the one square in the city where the clouds never part, and wait. I'm a clockmaker; waiting is mostly what we do."]
+    ],
+    "leave": [
+      "…but you've somewhere to be. So had Venus; she didn't stop for me either.",
+      "Go on. I've waited longer for less.",
+      "…ah. Well. I'll keep your place, to the second.",
+      "Mind the ice by the gate."
+    ],
+    "return": [
+      "There you are. Where was I? The sun. We were at the sun.",
+      "You came back. Venus took a hundred and five years; you've beaten her handsomely.",
+      "I kept your place. I'm a clockmaker; I keep everything's place. Now, then.",
+      "Ah, good. Stand nearer the lamp, it's warmer. Where was I?"
+    ],
+    "coda": [
+      "That's all of it. A field, a clock, an afternoon, a beam of light. It was enough for a life.",
+      "Thank you for standing in the snow for it. When you're home, look for her low in the west after sunset, or in the east before dawn, the brightest thing in the sky after the moon, and tell her good evening from me."
+    ],
+    "idle": [
+      "Still cloudy. Still here. Still not sorry.",
+      "December 2117. Not long, by a clockmaker's reckoning.",
+      "The sundial says 'The hour passes, friendship abides.' In this square the hour never passes at all.",
+      "Look at that lamp through your lashes. Rings of colour. Every time."
+    ],
+    "asks": {
+      "Did you really faint?": [
+        "Dr. Rush says I did, and he was a physician and my friend.",
+        "I gave the first signal at eleven minutes and thirty-nine seconds past two by my clock, and the second at twenty-eight minutes and forty-five.",
+        "A man in a faint gives no signals. But there were seventeen minutes in between, and nobody was looking at me."
+      ],
+      "Why does it always snow here?": [
+        "They tell me a painter made my square at night, in snow, and it has stayed that way.",
+        "I spent my life begging the sky for one clear afternoon, and now I live in the one place in the city where it never clears.",
+        "There's a joke in that. I've decided it's a kind one."
+      ],
+      "What are you looking at through your handkerchief?": [
+        "One summer night my friend Mr. Hopkinson looked at a street lamp through his silk handkerchief and saw dark bars that wouldn't move when he moved the silk, and he asked me why.",
+        "So I strung fifty hairs between two fine screws and looked at a light through them, and it came apart into colours, row on row on either side.",
+        "Light bends round the small things in its way, and breaks into colour doing it. The lamps here do it in the snow, every one."
+      ]
+    }
+  },
+  "alt_story": [
+    ["They've put a sundial in my square: two bronze children holding up a sunflower. It has been night and snowing every moment I've stood here, so it has never once told the time.", "I like it: it's the most honest clock in Philadelphia, and it simply waits for the sun."],
+    ["I was a farm boy at Norriton who inherited an uncle's chest of tools and books and taught himself Newton out of it.", "I made clocks, and then a clock of the whole sky, the planets on brass wheels, and Mr. Jefferson wrote that I had come nearer the Maker than any man since the creation. He was being kind; he was a Virginian."],
+    ["In 1769 Venus crossed the face of the sun, a thing seen twice before by anyone and never again by anyone then alive.", "I was too ill that spring to sit up nights. An astronomer, sent to bed."],
+    ["On the third of June, with not a cloud in the whole heavens, she touched the sun.", "A beam of light broke out round her dark edge, shaped like a broad-based pyramid: her air, lit from behind. I saw the sky of another world."],
+    ["Dr. Rush said afterwards that I fainted from joy. I gave both signals on time; but I won't argue with a physician about what goes on inside a man."],
+    ["Then the war came, and they made me Treasurer, and after the war the Mint, and I counted money for the better part of twenty years.", "Mr. Jefferson wrote that nature never meant to throw away a Newton on the occupations of a crown. I kept the letter, and did the counting anyway."],
+    ["One summer night my friend Mr. Hopkinson looked at a street lamp through his silk handkerchief and asked me why the light broke into bars that wouldn't move.", "So I strung fifty hairs between two fine brass screws and looked at a light through them, and it came apart into colours, row on row."],
+    ["Look at the lamps here, through the snow: the rings of colour round them are the same thing, light bending round the small things in its way.", "The lamps have been doing it all night, for anyone who stops."]
+  ]
+}

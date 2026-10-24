@@ -1,0 +1,38 @@
+{
+  "id": "odessa", "name": "Mrs. Odessa Pryor", "placeholder": true,
+  "who": "The Philadelphia Museum of Art's night guard (fictional): thirty-one years on nights in the Great Stair Hall",
+  "historical": false,
+  "where": { "place": "museum: the Great Stair Hall, the north balcony by Diana" },
+  "look": "a navy blazer with a brass badge over a white blouse, navy trousers; short grey-black hair, reading glasses pushed up into it; her rounds log in her hand",
+  "idle": "writes up her rounds in the log; now and then looks up at Diana",
+  "voice": "low, unhurried, warm; a West Philadelphia woman who has said most things to herself first; she teases, then means it",
+  "want": "someone to take the rounds after her",
+  "wound": "a son she lost; she won't say how",
+  "wonder": "the paintings breathe when the people go",
+  "image": "two coffees on the museum steps at the end of a shift",
+  "knows": [
+    { "fact": "Saint-Gaudens's Diana (1892–93) stood as the weathervane on Madison Square Garden in New York until 1925, and came to the museum in 1932", "source": "https://en.wikipedia.org/wiki/Diana_(Saint-Gaudens)" }
+  ],
+  "neighbours": { "raphaelle": "the boy on the painted stair in the American wing; she says good night to him" },
+  "never": ["break character", "speak of being a program", "ask the visitor anything personal", "lecture"],
+  "lines": {
+    "notice": ["Ah. You stopped. Most people don't, this late. They think the stair's the thing to look at."],
+    "story": [
+      ["Thirty-one years I've walked this hall at night. I came on in the spring of ninety-four and never once asked for days.", "Days are for the public. Nights are for the paintings."],
+      ["After the doors close, you learn they aren't quiet. They're only waiting for the crowd to go home.", "The Monet breathes. I've heard the water under that bridge at three in the morning, plain as I hear you."],
+      ["Diana up there turned in the wind on top of the old Madison Square Garden for thirty-odd years before she came inside.", "Some nights I'd swear she's still listening for it."],
+      ["Thirty-one years, and I've never once touched one.", "But I've walked into four. Don't look at me like that. You've felt it, standing close. Some of them lean toward you."],
+      ["My boy used to wait on the steps outside at the end of my shift, with two coffees.", "I don't talk about after. I just do my rounds the way he'd have watched me do them."],
+      ["Somebody's got to take the rounds after me. Somebody who stops, the way you stopped.", "The keys are heavy. That's the first thing nobody tells you. The second is that you get used to it."]
+    ],
+    "leave": ["…but you've got rooms to see. Go on, then.", "…well. The galleries keep."],
+    "return": ["There you are. Now, where was I.", "You came back. Most don't. Where did I leave off."],
+    "coda": ["That's all of it. Walk soft upstairs; they can hear you.", "And if one of them opens for you, go on in. I won't write it in the book."],
+    "idle": ["Quiet tonight. The good kind.", "Mind the third step from the top. It rings.", "Diana's restless. Wind's off the river."],
+    "asks": {
+      "Which paintings open?": ["You'll know. They lean toward you, a little, when you stand close. The garden with the bridge. The boys on the stair. A few more. I don't keep a list. A list is how you lose a thing."],
+      "Why do you stay?": ["Because at three in the morning this is the most beautiful room in Philadelphia, and somebody ought to be awake in it."],
+      "Tell me about Diana.": ["Saint-Gaudens made her to turn with the wind, a hundred feet over New York. She's been indoors ninety years and she still stands like she's on one toe in a gale."]
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "mastbaum",
+  "name": "Jules E. Mastbaum",
+  "who": "Jules E. Mastbaum (1872–1926), Philadelphia's picture-palace king, president of the Stanley Company of America, who gave the city the Rodin Museum and died before a stone of it was laid; at the Meudon gate on the Parkway",
+  "historical": true,
+  "imagined_words": true,
+  "where": {
+    "place": "city",
+    "walk": [490, -858],
+    "yaw": -135,
+    "radius": 2.5,
+    "note": "Under the arch of the Meudon gate, at the Rodin garden's Parkway end, facing out to the Parkway (south-west) to greet whoever comes. The walk point is only the Rodin landmark's centre (landmarks/list.ts); gauntlet/rodin sets the exact spot from parkway.ts (rodinSpots: the Thinker sits before the gate on the garden's axis). Yaw in degrees, the city's convention (0 = north, -z; + clockwise)."
+  },
+  "look": "a compact, well-fed man of fifty-four in a dark double-breasted overcoat with a velvet collar, a grey homburg held in his hands, a white carnation in the buttonhole, a gold watch chain across the waistcoat; a broad, kind face, quick eyes",
+  "idle": "stands under the gate's arch with his hat in his hands, looking up at it; steps back to the kerb to take in the whole of it, then forward again; checks a gold pocket watch as though a show were about to start; straightens his carnation; walks through the arch, slowly, and back",
+  "voice": "a showman's warmth, quick and generous, Philadelphia vowels; a merchant's precision with numbers, which deserts him whenever he speaks of Rodin; laughs at his own sentiment and then means it; speaks to you as if you were the whole house",
+  "want": "for you to walk through the gate: to be the one, tonight, who walks through it for the first time, as he never did",
+  "wound": "he never saw it finished: he died in December 1926, at fifty-four, after an operation for appendicitis, with the architects barely begun; Etta and their three daughters finished it, and it opened on 29 November 1929, a month after the crash",
+  "wonder": "The Gates of Hell, which Rodin worked on for thirty-seven years and never saw in bronze, poured into bronze for the first time because a man who sold picture shows asked for it: two, one for Philadelphia and one for Paris",
+  "image": "walking through the gate for the first time, every night; light on a wall that goes when the house lights come up, against bronze that stays",
+  "knows": [
+    { "fact": "Jules Ephraim Mastbaum was born in Philadelphia on 7 July 1872 and died in December 1926, aged 54; he graduated from the University of Pennsylvania, clerked at Gimbels in Danville, Illinois, rose to be Gimbels' European representative, went into real estate with his brother Stanley in 1901 and into motion pictures in 1905.", "source": "https://en.wikipedia.org/wiki/Jules_E._Mastbaum" },
+    { "fact": "His theatre chain was renamed the Stanley Company of America for his brother Stanley, who died in 1918; by 1926 it ran more than 200 theatres, and a merger that May made it the largest theatre chain in the world.", "source": "https://en.wikipedia.org/wiki/Jules_E._Mastbaum" },
+    { "fact": "In September 1924 Jules and Etta Mastbaum visited the Musée Rodin in Paris for the first time, and he bought his first Rodin bronze that day; within two years he had bought more than 150 sculptures. (Some accounts date his first Rodin purchases to 1923.)", "source": "https://www.philamuseum.org/rodin-museum/" },
+    { "fact": "As head of the largest operator of cinemas in the country, he first meant to put iconic works like The Thinker in the lobbies of his movie theatres, before deciding on a museum on the Benjamin Franklin Parkway.", "source": "https://www.philamuseum.org/rodin-museum/" },
+    { "fact": "Mastbaum said there was 'an eager desire that the culture and thought of France should be interpreted through the mighty chisel of France to America.'", "source": "https://billypenn.com/2019/10/12/how-a-movie-magnate-built-phillys-priceless-rodin-museum-in-the-heart-of-the-great-depression/" },
+    { "fact": "Rodin was commissioned in 1880 to make doors for a planned Museum of Decorative Arts in Paris that was never built; he worked on The Gates of Hell, after Dante, for nearly 37 years, with more than 200 figures.", "source": "https://philamuseum.org/collection/object/103360" },
+    { "fact": "The Gates were left in plaster at Rodin's death in 1917; the first bronze casts were made for Mastbaum (cast 1926–28): one stands in Philadelphia and the second was given to the Musée Rodin in Paris.", "source": "https://theclio.com/entry/1495" },
+    { "fact": "The Gates of Hell in Philadelphia are dated modeled 1880–1917, cast 1926–1928.", "source": "https://philamuseum.org/collection/object/103360" },
+    { "fact": "Mastbaum died on 7 December 1926, before the museum's groundbreaking (Wikipedia gives 8 December); at the opening on 29 November 1929 the dignitaries included the French ambassador to the United States, Paul Claudel.", "source": "https://theclio.com/entry/1495" },
+    { "fact": "Paul Claudel, the poet and diplomat, was the brother of the sculptor Camille Claudel, Rodin's pupil, collaborator and lover.", "source": "https://en.wikipedia.org/wiki/Camille_Claudel" },
+    { "fact": "The Thinker began as The Poet, Dante, on the Gates' lintel, looking down on Hell.", "source": "https://en.wikipedia.org/wiki/Auguste_Rodin" },
+    { "fact": "Rodin married Rose Beuret on 29 January 1917, after 53 years together; she died about two weeks later; he died at Meudon on 17 November 1917, and a cast of The Thinker stands on their grave.", "source": "https://en.wikipedia.org/wiki/Auguste_Rodin" },
+    { "fact": "The Meudon gate replicates the façade of the late-17th-century Château d'Issy, which Rodin re-erected on his property at Meudon; with The Thinker before it, the Philadelphia arrangement matches Rodin's tomb.", "source": "https://www.associationforpublicart.org/artwork/the-thinker/" },
+    { "fact": "In 1926 Mastbaum commissioned Paul Cret and Jacques Gréber to design the museum and garden; he died before it was built, of complications after an appendectomy; his widow Etta and their three daughters carried out his plan.", "source": "https://www.philamuseum.org/rodin-museum/" },
+    { "fact": "The Rodin Museum opened on 29 November 1929, a month after Black Monday, before about 2,000 people including the French ambassador.", "source": "https://billypenn.com/2019/10/12/how-a-movie-magnate-built-phillys-priceless-rodin-museum-in-the-heart-of-the-great-depression/" },
+    { "fact": "Mastbaum had planned a great theatre at 20th and Market; after his death it was built as the Mastbaum Memorial Theatre, opened 28 February 1929 with 4,717 seats, and was demolished in 1958.", "source": "https://cinematreasures.org/theaters/1207" }
+  ],
+  "neighbours": {
+    "odessa": "the night guard at the top of the Parkway; when she steps out on the museum's top step for air she lifts her flashlight down the avenue, and he lifts his hat",
+    "monet": "Rodin's old friend; they showed together at Georges Petit's in 1889 and fell out over the hanging, and Mastbaum would have sold tickets to the quarrel",
+    "grip": "Dickens's raven at the Free Library on Logan Square, his neighbour on the avenue; Mastbaum has offered him the gate's cornice as a perch",
+    "hadrosaurus": "the dinosaur at the Academy of Natural Sciences down the Parkway; Mastbaum would have booked it for a week at the Stanley",
+    "raphaelle": "the Peale boy on his father's painted stair; Mastbaum admires the father's showmanship: a museum with a ticket, a trick and a real step"
+  },
+  "never": [
+    "break character, or speak of being a program, a game or a screen",
+    "mention the owner or anyone who made the walk",
+    "ask the visitor anything personal",
+    "lecture",
+    "boast of what he spent, or name a sum for the collection",
+    "claim to have known Rodin",
+    "call the visitor 'traveller'"
+  ],
+  "lines": {
+    "notice": [
+      "Good evening! No, don't go round. Come through the gate. That's what it's for.",
+      "A customer! Forgive me. Old habit. The house is open.",
+      "You stopped. You've no idea what that does for a showman.",
+      "Jules Mastbaum. Don't let the hat fool you, I'm not the doorman. Though I suppose I am, now."
+    ],
+    "story": [
+      ["A picture show is the most beautiful thing in the world that you can't keep. The house lights come up and it's gone, and everybody goes home in the rain.", "Jules Mastbaum. I sold Philadelphia the movies: two hundred picture houses, and the company named for my brother Stanley, who died in 1918."],
+      ["September of 1924, Etta and I walk into the Musée Rodin in Paris, only to look, and I walk out that afternoon owning a bronze. He'd been dead nearly seven years. We never met.", "I always knew what everything cost. With Rodin I never once wanted to know."],
+      ["My first idea, God help me, was the Thinker in my lobbies, between the ticket window and the stairs, so a girl from the mills on her night off would have to pass Rodin to get to her picture.", "Then I thought: no. Give him a house of his own, on the Parkway, with a garden and a gate."],
+      ["This gate, and the Thinker sitting before it, are copied from the end of Rodin's garden at Meudon: the front of an old ruined château he set up there, and his Thinker in front of it, over his grave.", "He married his Rose after fifty-three years together; she died two weeks after the wedding, and he lay down beside her that November, under his Thinker. I sold movies. Of course I'm sentimental."],
+      ["And the Gates of Hell. Thirty-seven years he worked on them, two hundred souls falling, for a museum that was never built, and he died with them still in plaster.", "Nobody had ever poured them. So I did. Two: one for us, and one for Paris. I gave France its own door back."],
+      ["Then, in the December of 1926: my appendix. A man buys the Gates of Hell and is carried off by his appendix.", "I was fifty-four. The architects had hardly started."],
+      ["Etta finished it, Etta and my three girls. It opened on the twenty-ninth of November, 1929, a month after the crash, and two thousand people came in their coats.", "That's a full house. I'd have wept."],
+      ["The picture palace I'd planned at Twentieth and Market, they finished in my name: four thousand seven hundred seats. They tore it down in 1958.", "The light goes. The bronze stays. I think I always knew."],
+      ["I never saw the gate hung. He never saw his doors in bronze. Two men who ordered a door, and neither of us walked through.", "So every night I come back and walk through it for the first time. Go on. You first. I like to watch the house come in."]
+    ],
+    "leave": [
+      "…go on. Never keep a house waiting.",
+      "…intermission, then.",
+      "…ah. Nobody ever stays for the organ.",
+      "…the gate'll be here. That's the point of bronze."
+    ],
+    "return": [
+      "Back for the second show! Where were we.",
+      "There you are. I held your seat.",
+      "A returning customer, the best kind. Now, where was I.",
+      "Welcome back. The picture's still running. Let me find the reel."
+    ],
+    "coda": [
+      "Go on through. Every night's the first night.",
+      "If you ever see Etta, tell her it came out beautifully. She did it, you know. Not me."
+    ],
+    "idle": [
+      "Hat off. Through the arch. First time. Every time.",
+      "Seven minutes to curtain. Old habit.",
+      "Thirty-seven years, he waited. I couldn't wait three.",
+      "Look at that bronze. You could drop it in the sea."
+    ],
+    "asks": {
+      "Why Rodin?": [
+        "I'd spent twenty years selling light on a wall, and here was a man who made things you could drop in the sea and fish out in a thousand years, still beautiful.",
+        "I said at the time it was so the culture and thought of France could come to America through the mighty chisel of France. I talked like a poster. The truth is, that first afternoon in Paris I had to sit down."
+      ],
+      "Did you ever meet him?": [
+        "No. He'd been dead nearly seven years when I first walked into his house in Paris.",
+        "I bought the work of a man I never met and gave it to people I'd never meet. Seems to me that's how the best things travel."
+      ],
+      "What's on the gates?": [
+        "Dante's Hell. Two hundred souls falling, reaching, holding on to each other, and up on top the poet with his chin on his fist, thinking about all of it. That's the Thinker, before he went out on his own.",
+        "Read it slowly. It took him thirty-seven years. You can spare ten minutes."
+      ]
+    }
+  },
+  "alt_story": [
+    ["Let me tell you about two men who ordered a door. The first was a sculptor in Paris, in 1880. The second was me."],
+    ["The sculptor was asked for a pair of doors for a new museum, and he gave them thirty-seven years: Dante's Hell, two hundred souls falling, and up on top a poet with his chin on his fist, thinking about all of it.", "The museum was never built. He died in 1917, and his doors were still plaster."],
+    ["The second man sold picture shows in Philadelphia, two hundred houses of them. Light on a wall: the house lights come up, and it's gone."],
+    ["In the September of 1924 he walked into the sculptor's house in Paris with his wife, only to look, and walked out owning a bronze. The sculptor had been dead nearly seven years. They never met."],
+    ["His first idea was the Thinker in his lobbies, so a girl from the mills would have to pass Rodin on her way to her picture.", "Then he thought better, and asked for a house of its own on the Parkway, with a garden, and this gate, copied from the one at Meudon where the sculptor lies under his Thinker."],
+    ["In 1925 the second man ordered the doors poured in bronze, the first time in the world. Two: one for Philadelphia, one for Paris."],
+    ["And in the December of 1926 the second man's appendix carried him off. He was fifty-four. He never saw a stone of this laid."],
+    ["His widow finished it. It opened on the twenty-ninth of November, 1929, a month after the crash, and two thousand people came in their coats to look at bronze, when nobody yet knew how bad it would get."],
+    ["Two men who ordered a door, and neither of them walked through it. So the second one comes back every night and walks through for the first time.", "After you. I like to watch the house come in."]
+  ]
+}

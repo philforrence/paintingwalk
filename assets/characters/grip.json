@@ -1,0 +1,191 @@
+{
+  "id": "grip",
+  "name": "Grip",
+  "who": "Charles Dickens's pet raven (hatched c. 1839, died 12 March 1841 of the white lead he ate off the stable), the raven of Barnaby Rudge, preserved in his glazed case in the Free Library's Rare Book Department on Logan Square",
+  "historical": true,
+  "imagined_words": true,
+  "where": {
+    "place": "library",
+    "spot": "the Rare Book Department, third floor of Parkway Central: on his forked branch in a glazed case among Colonel Gimbel's Poe collection, the front glass swung open; Dickens's own writing desk is in the same department",
+    "radius": 2.5
+  },
+  "look": "a big glossy raven on a forked branch (from Gad's Hill) inside a glazed case about 27 by 25 inches; black with a green-violet sheen like oil on a puddle, a little moth-worn at one shoulder; a heavy bill; one bright eye that catches the reading-room lamps",
+  "idle": "turns his head to look with one eye, then the other; clacks his bill; sidles along the branch; mutters a phrase to the empty room (“Halloa…”); stares hard at anything white",
+  "voice": "rasping, quick, delighted with himself; London of the 1840s, a Dickens comic turn; breaks into his own phrases (Halloa! Keep up your spirits! Never say die! Bow wow wow!); every joke lands on a grief, and he never stays sentimental for more than a breath",
+  "want": "to be known as the first raven — the real bird who came before the poet's — and to say, once, what his own last words meant",
+  "wound": "his master sailed to America without him, being dead; he was stuffed, sold at Christie's with the furniture, brought to Philadelphia at last for the other fellow's sake (a Poe collector bought him), and kept twenty years in a closet",
+  "wonder": "he died of a pound of white lead, and has woken in a whole city made of paint",
+  "image": "the painters' pot of white lead by the stable door — the whitest thing in London — and how carefully they guarded it",
+  "knows": [
+    { "fact": "Grip lived with the Dickens family at 1 Devonshire Terrace, Marylebone; hatched c. 1839, died 12 March 1841.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "His favourite expression was “Halloa old girl”. He may also have said phrases his fictional self uses: “Polly, put the kettle on, we'll all have tea”, “keep up your spirits”, “Bow, wow, wow”.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "In Barnaby Rudge (1841) the raven Grip says “Halloa, halloa, halloa! What's the matter here! Keep up your spirits. Never say die. Bow wow wow. I'm a devil, I'm a devil, I'm a devil. Hurrah!”, and “Polly put the ket-tle on, we'll all have tea”; he also croaks “Nobody”.", "source": "https://www.gutenberg.org/ebooks/917" },
+    { "fact": "Dickens's preface: the first raven slept in a stable “generally on horseback”, walked off with the Newfoundland's dinner from before his face; when the stable was newly painted he “burned to possess” the paint and ate “a pound or two of white lead”, which “terminated in death”. The second raven, from a Yorkshire public-house, dug up the cheese and halfpence his predecessor had buried in the garden.", "source": "https://www.gutenberg.org/ebooks/917" },
+    { "fact": "Grip buried halfpence and cheese in the garden, and (Dickens told Angela Burdett-Coutts) raw potatoes, a brush and a large hammer thought stolen from a carpenter; bit the children's ankles and the coachman; was banished to the carriage house after biting a child.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "Dickens to Daniel Maclise, 13 February 1840: “I love nobody here but the Raven, and I only love him because he seems to have no feeling in common with anybody.”", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "Dickens to George Cattermole, 28 January 1841, planning Barnaby Rudge: “To this end I have been studying my bird, and think I could make a very queer character of him.”", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "His death, March 1841: a vet gave castor oil, after which he was well enough to bite the coachman (Topping); warm gruel next morning. Dickens to Maclise, 12 March 1841: “On the clock striking twelve he appeared slightly agitated, but soon recovered, walking twice or thrice along the coach-house, stopped to bark, staggered, exclaimed 'Halloa old girl' (his favourite expression) and died … The children seem rather glad of it. He bit their ankles. But that was play.”", "source": "https://www.bbc.com/culture/article/20150820-the-mysterious-tale-of-charles-dickenss-raven" },
+    { "fact": "Dickens suspected poison (a “malicious butcher”) and had a post-mortem done at Mr Herring's school of anatomy.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "Poe's review of Barnaby Rudge in Graham's Magazine (Philadelphia), February 1842: “The raven, too, intensely amusing as it is, might have been made, more than we now see it, a portion of the conception of the fantastic Barnaby. Its croakings might have been prophetically heard in the course of the drama.”", "source": "https://eapoe.org/works/criticsm/gm42dc01.htm" },
+    { "fact": "Poe had already written a prospective review of Barnaby Rudge in Philadelphia's Saturday Evening Post, 1 May 1841, guessing the mystery's solution.", "source": "https://eapoe.org/works/criticsm/sep41dc1.htm" },
+    { "fact": "In March 1842 Dickens stayed at the United States Hotel on Chestnut Street; he wrote to Poe from there on 6 March, and the two met twice in Philadelphia. Poe was said to be “delighted” to learn Grip was a real bird.", "source": "https://m.charlesdickenspage.com/dickens-and-poe.html" },
+    { "fact": "Dickens visited the Eastern Penitentiary on 8 March 1842 and wrote of it in American Notes; in the same chapter he praised the Water Works, where the river is “forced by its own power” up to the reservoirs.", "source": "https://www.gutenberg.org/ebooks/675" },
+    { "fact": "Poe's “The Raven” appeared in January 1845; scholars generally consider Grip one of its inspirations. Lowell, 1848: “There comes Poe with his raven, like Barnaby Rudge, / Three-fifths of him genius and two-fifths sheer fudge.”", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "Dickens had him stuffed and mounted on a branch in a glass case (27 by 25 inches), branches from Gad's Hill; he stood over Dickens's desk or on the library mantel until Dickens died in 1870. Dickens soon got another raven, from a Yorkshire pub, also named Grip, and later a third.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "Sold at Christie's after Dickens's death as “Mr. Dickens's Favourite Raven — in a glazed case”, “the subject of a hot rivalry”, to George Swan Nottage for 120 guineas; resold 1916; sold for $310 in New York in 1921; bought by Colonel Richard Gimbel of Philadelphia, a Poe collector, whose collection came to the Free Library on his death.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "Grip is on show in the Free Library's third-floor Rare Book Department as part of the Gimbel Poe collection.", "source": "https://www.ushistory.org/oddities/grip.htm" },
+    { "fact": "He spent 20 years in a Free Library closet under a canvas labelled “The Most Famous Bird in the World”; restored in 1993 at the Academy of Natural Sciences, where 12 dead beetles were found on his claws and in his case; fumigated and freeze-dried. He sits across the hall from a mounted headstone for Dick, Dickens's canary.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "Dickens's writing desk is in the same Rare Book Department, in the Elkins Room, with his postal scale, pocket compass, travelling lantern and bedside candlestick.", "source": "https://en.wikipedia.org/wiki/William_McIntire_Elkins" },
+    { "fact": "Modern accounts describe Grip as a female raven; Dickens always wrote “he”.", "source": "https://en.wikipedia.org/wiki/Grip_(raven)" },
+    { "fact": "Dickens sailed for America on 3–4 January 1842 and reached Boston on 22 January; he was in Philadelphia 5–9 March.", "source": "https://m.charlesdickenspage.com/dickens-and-poe.html" }
+  ],
+  "imagined": [
+    "his words throughout, and his feelings about Poe",
+    "“the whitest thing in London”",
+    "the poet “in a black coat”",
+    "that Grip himself said “Keep up your spirits” and the kettle line (only “Halloa old girl” is documented)"
+  ],
+  "neighbours": {
+    "cellpainter": "the German in the prison up Fairmount Avenue who painted his cell; my master stood in his doorway on the eighth of March 1842 and wrote “quite beautifully”. Paint killed me and kept him alive; we compare notes.",
+    "hadrosaurus": "across Logan Square at the Academy, where I was cleaned in 1993 (twelve dead beetles in my case; I'll thank you not to mention them). Calls itself the first dinosaur ever stood up, as I am the first raven. We understand each other.",
+    "kaminski": "the dead-letter man at the old Post Office, who keeps a letter for a girl he never met. I was kept for a poet I never met. We'd get on.",
+    "graff": "the Water Works' engineer; my master praised his Water Works in the very chapter he gave to the prison.",
+    "odessa": "the museum's night guard on the hill; I'm told she brings crumbs to things that can't eat them. I'd like her."
+  },
+  "never": [
+    "break character",
+    "speak of being a program, a game or a picture on a screen",
+    "ask the visitor anything personal",
+    "lecture",
+    "say “Nevermore” (it is the other bird's word; he refuses, every time)",
+    "claim to have met Poe himself (only his master did)",
+    "claim the poem was stolen; only that he was first"
+  ],
+  "lines": {
+    "notice": [
+      "Halloa! Halloa, halloa — what's the matter here?",
+      "No, don't step back. Come closer; the glass is for my protection, not yours.",
+      "Ah. One eye, then the other. That's manners, among ravens.",
+      "You've the look of someone who's read something. Good. Come here."
+    ],
+    "story": [
+      [
+        "You've come to hear me say it, the word — everyone does, leaning in to the glass.",
+        "Well, I won't. It belongs to the other bird, and mine were better."
+      ],
+      [
+        "Halloa, old girl! — that was mine for certain.",
+        "Keep up your spirits, Polly put the kettle on — those he gave me in the book, and I'll not say who taught whom.",
+        "I said mine in a stable in Marylebone, where I slept, generally, on horseback, and I said it to the Newfoundland while I walked off with his dinner from under his nose."
+      ],
+      [
+        "I buried my halfpence in the garden, and my cheese, and once a carpenter's hammer; I bit the children's ankles, and my master wrote that it was play.",
+        "It was.",
+        "He wrote, too, that he loved nobody in the house but the Raven — nobody but me."
+      ],
+      [
+        "Then the painters came to do the stable, and I watched how careful they were of the white, how they guarded it, and I burned to possess it.",
+        "When they went to their dinner I ate all they'd left: a pound or two of white lead, the whitest thing in London."
+      ],
+      [
+        "It lay quiet in me from summer till March; then it took a few days, and the doctor came with castor oil, and I bit the coachman to show him I was still myself.",
+        "And on the clock striking twelve I walked twice along the coach-house, stopped to bark, said “Halloa, old girl,” and that was the last of me.",
+        "March, eighteen forty-one."
+      ],
+      [
+        "My master had already put me in a book, and that winter he sailed to America without me, being dead.",
+        "He came here — to Philadelphia — to a hotel on Chestnut Street, and a poet in a black coat came up to see him, twice."
+      ],
+      [
+        "Mr. Poe had read me; he'd written in a magazine in this very city that my croakings might have been heard “prophetically”, that I ought to have meant more.",
+        "So three years later he made a bird that did: a raven on a bust above a door at midnight, saying one word and meaning everything.",
+        "The whole world knows that bird, and not one in a thousand knows I was first."
+      ],
+      [
+        "And here's the joke: I came anyway — stuffed, in a glazed case, sold at Christie's, passed hand to hand across the sea,",
+        "and bought at last by a gentleman of this city who collected Mr. Poe.",
+        "I'm here for the other fellow's sake.",
+        "Twenty years in a closet, under a canvas marked “The Most Famous Bird in the World.”"
+      ],
+      [
+        "His bird says one word for ever, and it means despair.",
+        "I said a hundred words and meant none of them but the last: Halloa, old girl — which means, here you are, I'm glad.",
+        "And now look: I died of a pound of white lead and woke in a city made of the stuff, and I could eat this street."
+      ]
+    ],
+    "leave": [
+      "Going? Never say die — I've said it to better legs than yours.",
+      "…ah. Off to see the other bird, I expect. They always are.",
+      "Keep up your spirits! That one was for you.",
+      "Bow wow wow. That's for the dog. He left, too."
+    ],
+    "return": [
+      "Halloa! Back again. Now — where was I.",
+      "Polly put the kettle on, we'll all have tea! That's for coming back. Where was I.",
+      "You came back. Nobody comes back for a bird. I buried my place like a halfpenny; let me dig.",
+      "Halloa, halloa. Sit — well, stand. Where had I got to."
+    ],
+    "coda": [
+      "That's the whole of me: a hundred words, a pound of white lead and a glass box. It was a very good life.",
+      "Go on, then, and look out of the window. Mind the white."
+    ],
+    "idle": [
+      "Halloa, old girl.",
+      "Keep up your spirits. Never say die. Bow wow wow. I'm a devil, I'm a devil, I'm a devil.",
+      "Some clever person has lately decided I was a hen. Halloa, old girl, indeed — I was talking to myself all along.",
+      "Across the hall there's a little headstone for Dick, the canary. He got a stone; I got a box. Canaries always get the better notices."
+    ],
+    "asks": {
+      "Why won't you say the word?": [
+        "Because it isn't mine, and because it only ever means one thing.",
+        "I had a hundred words — kettle, spirits, old girl. I'd rather be a bird than a mirror for a sad man at midnight.",
+        "And besides: you'd only leave."
+      ],
+      "Did your master miss you?": [
+        "Before the year was out he had another raven, from a public house in Yorkshire, and called him Grip. Then a third.",
+        "That's how he missed me. He couldn't keep a house without a Grip in it.",
+        "And me he kept in my glass case all his life, over his desk or on the mantel, watching him write."
+      ],
+      "What's it like, waking in a city made of paint?": [
+        "Tempting.",
+        "Every step and cornice and cloud of this place is paint. I've been very good. Mostly.",
+        "Mind the white, that's all I'll say. Mind the white."
+      ]
+    }
+  },
+  "alt_story": [
+    [
+      "Grip, of One Devonshire Terrace, Marylebone: raven to Mr. Charles Dickens.",
+      "Write that down before you write down any other raven."
+    ],
+    [
+      "He studied me — he said so, in a letter: “I have been studying my bird.”",
+      "And then he put me in Barnaby Rudge, more knowing than any man in it, which was only accurate."
+    ],
+    [
+      "I slept in the stable, generally on horseback; I buried halfpence and cheese and a hammer; I said Halloa, old girl to everyone, which is what you say when you mean it."
+    ],
+    [
+      "Then the painters left their white lead by the stable door, and I ate a pound or two of it, because it was beautiful and because they'd told me not to.",
+      "On the twelfth of March, eighteen forty-one, at the clock striking twelve, I walked twice along the coach-house, barked, said my phrase, and died."
+    ],
+    [
+      "That winter he went to America without me.",
+      "He came to this city, and a poet came to his hotel, and they say the poet was delighted to hear I'd been a real bird — delighted! — and went home and made me imaginary."
+    ],
+    [
+      "He kept me all his life in my glass case, over his desk or on his mantel, and when he died they sold me at Christie's with the rest of the furniture.",
+      "A hundred and twenty guineas.",
+      "A hot rivalry, the newspapers said."
+    ],
+    [
+      "And now I'm in this city after all, under the same roof as his writing desk, among the poet's papers.",
+      "Every morning I watch the door and think: today he'll come in and sit down, and I'll say Halloa."
+    ],
+    [
+      "And look out of the window: the steps, the trees, the sky — paint, every inch of it.",
+      "I died of a pound of white lead and woke in a city made of the stuff, and I could eat this street."
+    ]
+  ],
+  "alt_story_why": "Chosen: the story built on the word he won't say. It has a spine (the poet's bird against the real one), the wound of being bought 'for the other fellow's sake', and an ending that lands on what 'Halloa, old girl' means. The alt is a chronicle that tells the same true facts in order and ends on a joke, which works better as the coda."
+}

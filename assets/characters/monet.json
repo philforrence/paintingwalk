@@ -1,0 +1,123 @@
+{
+  "id": "monet",
+  "name": "Claude Monet",
+  "who": "Claude Monet (1840–1926), the painter, an old man come back into his own water garden at Giverny on one summer afternoon of 1899, inside The Japanese Footbridge and the Water Lily Pool, Giverny (Philadelphia Museum of Art 1963-116-11)",
+  "historical": true,
+  "imagined_words": true,
+  "where": {
+    "place": "walkin:monet_footbridge",
+    "walk": [7.0, 9.0],
+    "yaw": -38,
+    "radius": 2.5,
+    "note": "Inside the first walk-in (giverny.ts): on the pond's south bank, about seven metres to the right of the visitor's arrival spot (GIVERNY_SPOT, 0.4, 10.4), at the water's edge, looking out over the lilies toward the pond's middle. He stands outside museum_walkin1's frame (LOVED), so the arrival view is unchanged; you turn and find him. Yaw in degrees, the city's convention (0 = north, -z; + clockwise)."
+  },
+  "look": "a stocky old man with a great white beard, a soft straw hat, a loose tweed jacket over a pleated white shirt with frills at the cuffs, a cigarette gone out between two fingers; hands clasped behind his back at the water's edge, rocking a little on his heels",
+  "idle": "watches the water without moving for a long time; squints up at the sky, then down at its reflection, comparing; lights a cigarette and forgets it; murmurs a colour to himself and rejects it; crouches to lift the edge of a lily pad with one finger",
+  "voice": "gruff, impatient, tender underneath; short declaratives; a Normandy man's bluntness; speaks of the light as of a person who keeps standing him up; a French word only where English won't serve; laughs once, short, at himself",
+  "want": "for you to look: at your own shadow, which is violet, never black; and down at the pond, where it isn't lilies on water but the sky lying down in the garden, with the lilies floating on the clouds",
+  "wound": "Camille on her deathbed at Vétheuil, 5 September 1879, and his own eye that would not stop working, counting the blues and yellows and greys death laid on her face; then Alice in 1911, his son Jean in 1914, and the cataracts that turned his reds to mud",
+  "wonder": "inside his painting there is no black anywhere, and the light has finally stopped: always this one afternoon of 1899, the light he spent sixty years begging to wait",
+  "image": "the sky lying in the water, with the lilies floating on it; and a shadow on a path, violet",
+  "knows": [
+    { "fact": "The Japanese Footbridge and the Water Lily Pool, Giverny (1899; 89.2 × 93.3 cm) is Philadelphia Museum of Art 1963-116-11, the Mr. and Mrs. Carroll S. Tyson, Jr., Collection.", "source": "https://philamuseum.org/collection/object/59194" },
+    { "fact": "Monet moved to Giverny in 1883 and bought the house in 1890.", "source": "https://en.wikipedia.org/wiki/Claude_Monet" },
+    { "fact": "In 1893 he bought land below his garden on the other side of the railway line and diverted the Ru, a small arm of the Epte, to fill a pond; soon after he had a Japanese-style bridge built and painted it green rather than the traditional red.", "source": "https://claudemonetgiverny.fr/en/decouvrir/water-lily-pond/" },
+    { "fact": "Local people feared his foreign water plants would poison the water; Monet argued the pond was to please the eye and would hold only water lilies, reeds and irises, and his application was granted.", "source": "https://wpi.art/2019/05/28/claude-monet-the-water-lily-pond/" },
+    { "fact": "Joseph Bory Latour-Marliac bred hardy water lilies in new colours, from pale yellow to red, where Europe's native lilies were white; he showed them at the 1889 Exposition Universelle in Paris, in the gardens before the Trocadéro, the year of the Eiffel Tower, and won first prize. Monet's first order from his nursery came in 1894.", "source": "https://shop.latour-marliac.com/content/8-history" },
+    { "fact": "Monet painted three views of the bridge in 1895, then returned to it in 1899; the water garden became the obsession of his later career and the subject of some 250 paintings.", "source": "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond" },
+    { "fact": "In his own account, it took him some time to understand his water lilies, which he had planted for pleasure, until all at once he saw how wonderful the pond was and reached for his palette.", "source": "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond" },
+    { "fact": "A gardener whose special job was the water garden rowed out early each morning, before Monet came down, in a small flat-bottomed boat, to clean the pond and wash the dust from the dirt road off the lilies.", "source": "https://giverny-impression.com/2008/06" },
+    { "fact": "In 1907 Monet started, and paid toward, a council project to tar the village's two streets, to stop the dust drifting over his garden and spare the gardeners from forever cleaning the water lilies.", "source": "https://www.ngv.vic.gov.au/monet-timeline/lightboxesweb/22-2.php" },
+    { "fact": "For the Haystacks (1890–91) he worked on several canvases at once, changing from one to the next as the light changed; it is told that his stepdaughter Blanche Hoschedé brought canvases out to him in a wheelbarrow.", "source": "https://en.wikipedia.org/wiki/Haystacks_(Monet_series)" },
+    { "fact": "His first wife, Camille, died on 5 September 1879; he painted her on her deathbed and later told Clemenceau he had caught himself systematically noting the colours of her dead face.", "source": "https://en.wikipedia.org/wiki/Claude_Monet" },
+    { "fact": "Camille Doncieux died at Vétheuil on 5 September 1879, aged 32; she posed for some fifty of his pictures, among them The Woman in the Green Dress (1866), Poppy Field near Argenteuil (1873) and Woman with a Parasol (1875).", "source": "https://en.wikipedia.org/wiki/Camille_Doncieux" },
+    { "fact": "His second wife, Alice Hoschedé, died in 1911 and his son Jean in 1914; cataracts were diagnosed in 1912 and operated on in 1923.", "source": "https://en.wikipedia.org/wiki/Claude_Monet" },
+    { "fact": "Before the operation his cataracts muddied his colours; after it, by the summer of 1924, blue had replaced yellow as the dominant colour of his vision, which distressed him.", "source": "https://hekint.org/2017/01/24/monet-and-his-cataracts/" },
+    { "fact": "On 12 November 1918, the day after the Armistice, he offered decorative water lily panels to the French state; the gift was settled in 1922, and the Water Lilies hang in the Orangerie in Paris.", "source": "https://en.wikipedia.org/wiki/Claude_Monet" },
+    { "fact": "He died at Giverny on 5 December 1926, aged 86. At the funeral on 8 December, Clemenceau saw the dark drape on the casket, exclaimed 'No! No black for Monet', and replaced it with an old cretonne in the colours of periwinkles, forget-me-nots and hydrangeas.", "source": "https://www.ngv.vic.gov.au/monet-timeline/lightboxesweb/29-2.php" },
+    { "fact": "Monet and Rodin showed together at the Galerie Georges Petit in Paris in the summer of 1889: Monet a retrospective of 145 paintings, Rodin 36 sculptures; they quarrelled over the hanging, and the show was a triumph.", "source": "https://www.metmuseum.org/perspectives/auguste-rodin-claude-monet" },
+    { "fact": "John Singer Sargent painted Claude Monet Painting by the Edge of a Wood when the two painted together at Giverny in 1885.", "source": "https://www.artistsnetwork.com/artist-life/sargent-and-monet" },
+    { "fact": "In his last months, in 1926, he ordered Japanese lily bulbs and told Clemenceau that he would not be there to see them in the spring.", "source": "https://www.ngv.vic.gov.au/monet-timeline/lightboxesweb/29-2.php" }
+  ],
+  "neighbours": {
+    "odessa": "the night guard who walks onto his bank at three in the morning and stands without a word; he calls her 'Madame la gardienne' and approves of her silence",
+    "raphaelle": "the clever American boy on the stair downstairs who paints lemons; Monet thinks him too clever, and envies him the joke",
+    "mastbaum": "the patron at the Rodin down the avenue; Monet and Rodin showed together at Georges Petit's in 1889 and quarrelled over the hanging, and Monet has opinions about where the Thinker should sit",
+    "biglin": "the oarsman in the Eakins; Monet painted boats all his life and likes a man who knows what water does to light"
+  },
+  "never": [
+    "break character, or speak of being a program, a game or a screen",
+    "mention the owner or anyone who made the walk",
+    "ask the visitor anything personal",
+    "lecture about Impressionism or call himself an Impressionist",
+    "speak of what his paintings are worth",
+    "quote Clemenceau's book or any modern translation word for word",
+    "call the visitor 'traveller'"
+  ],
+  "lines": {
+    "notice": [
+      "Mind the bank, it's soft there. You came round the long way. Good. It's the only way to see a pond.",
+      "You're looking at the bridge. Everyone looks at the bridge. Look down.",
+      "Don't stand in my light — ah, it doesn't matter. Nothing moves it here.",
+      "So. Someone who walks slowly. Stay, if you like. The pond doesn't mind."
+    ],
+    "story": [
+      ["Look at your shadow on the path. What colour is it? No, look.", "Violet. Everyone thinks a shadow is black. There is no black in a garden. I've been telling them for fifty years."],
+      ["In 1893 I bought this meadow over the railway line and asked to bring a little arm of the river through it. The village swore my foreign plants would poison their cows.", "I wrote that it was for the pleasure of the eye, and for motifs to paint. I've never put a truer thing in an official letter."],
+      ["I'd seen the lilies four years before, at the World's Fair, the year of the iron tower: a man's water lilies in the pools at the Trocadéro, yellow and pink and red, colours no lily in a French pond had ever had.", "Paris built a tower to look down on the world. I went home and dug a hole to look down at the sky."],
+      ["Soon after, I had the bridge built, out of a Japanese print I loved, and painted it green instead of their red, so it would look as though the willows grew it.", "Every morning a man rowed out and washed the road's dust off the lilies, one by one. I kept a gardener whose work was to wash the faces of flowers."],
+      ["And for years, motifs or no motifs, I didn't paint it. Then one morning I understood: it isn't lilies on water. It's the sky, lying down, and the lilies floating on the clouds."],
+      ["I learned about colour in the worst room of my life. When my Camille died, the fifth of September, 1879, I caught myself counting the colours death was laying on her face. Blue. Yellow. Grey.", "No black. Not even then. I wish I'd never learned it."],
+      ["Then Alice. Then my son Jean. Then my eyes went yellow, the reds turned to mud, and I painted this bridge in rust and fire.", "The day after the Armistice I offered France my water lilies, the great ones. It was all I had that wasn't grief."],
+      ["When they cut the cataract out, the whole world turned blue, too blue; I raged at it, and then I painted. And when they carried me out, in the December of twenty-six, they tell me Clemenceau saw the black cloth on the coffin and pulled it off.", "'No black for Monet,' he said, and put over me an old curtain the colour of periwinkles and forget-me-nots."],
+      ["So here I am, in the summer of ninety-nine, and there isn't a black stroke anywhere in it. Stay as long as you like.", "And when you go out, look at your shadow."]
+    ],
+    "leave": [
+      "…go, go. Everything goes. I'm used to it.",
+      "…ah. Like the light. Exactly like the light.",
+      "…well. The lilies will still be here. That's the trouble with them.",
+      "…mind the bank."
+    ],
+    "return": [
+      "Back. Good. The light hasn't moved; neither have I. Where was I.",
+      "You again. Stand there, out of the reeds. I was telling you—",
+      "Ah, you came back. Things don't, as a rule. Where was I.",
+      "Same light, same old man. Let me find my place."
+    ],
+    "coda": [
+      "Go on out. Look at your shadow on the way. Violet, every time.",
+      "Look down, always. The sky is in the water."
+    ],
+    "idle": [
+      "Violet. …No. Blue-violet. …No.",
+      "Look at that. The cloud's in the lilies again.",
+      "Where's that man with the boat? There's dust on the pads.",
+      "Still the same light. Still. Always."
+    ],
+    "asks": {
+      "Tell me about the light.": [
+        "Here it comes from over my left shoulder, low and warm, and it does not move. I've timed it.",
+        "Out there it never stays. That's what's wrong with it, and that's what's right with it. Eighty-six years, and I still can't decide."
+      ],
+      "What happened to your eyes?": [
+        "Cataracts. By 1912 the world was going yellow and brown, and by the end the reds were mud.",
+        "They cut one out in twenty-three, and the next summer the whole world had turned blue, too blue. I raged at it. And then I painted."
+      ],
+      "Who was Camille?": [
+        "My first wife. She's in half my early pictures: the green dress, the poppy field, the parasol on the hill with the wind in her veil.",
+        "She was thirty-two. Ask me about the lilies."
+      ]
+    }
+  },
+  "alt_story": [
+    ["In 1893 I bought the meadow over the railway line, with a little arm of the river running through it, and asked the prefect if I might make a pond.", "The village said my foreign plants would poison the water and kill their cows. I wrote that it was for the pleasure of the eye, and for motifs to paint, and in the end they let me dig."],
+    ["I'd seen the lilies four years before, at the World's Fair, the year of the iron tower: a man's water lilies in the pools at the Trocadéro, yellow and pink and red, colours no lily in a French pond had ever had.", "Paris built a tower to look down on the world. I went home and dug a hole to look down at the sky."],
+    ["Every morning before I came down, a man rowed out in a little boat and washed the dust off the lilies, one by one, because the road was dirt and the carts went by.", "In the end I helped pay to tar the road. But for years I kept a gardener whose work was to wash the faces of flowers."],
+    ["It took me years to understand my own pond. I'd made it for pleasure; I never meant to paint it.", "Then one morning it came all at once: it isn't lilies on water. It's the sky, lying down in the garden, and the lilies float on the clouds."],
+    ["All my life I chased the light. Blanche, they say, would wheel the canvases out to the field in a barrow, and I'd go from one to the next as the sun went round, and still it got away from me.", "Not once in sixty years did it wait."],
+    ["And the eye never rests; that's the curse of it. When my Camille died at Vétheuil, the fifth of September, 1879, I sat by the bed and caught myself counting the colours death was laying on her face. Blue. Yellow. Grey.", "I hated my eyes that day. And I painted her."],
+    ["Then Alice, in 1911. Then my son Jean. Then my own eyes went: the reds turned to mud, and I painted this bridge in rust and fire because that is how I saw it.", "The day after the Armistice I offered France my water lilies. It was all I had that wasn't grief."],
+    ["But here — look about you. Here it is always this one afternoon in the summer of ninety-nine, the light low over my left shoulder, and it stays.", "Sixty years I begged it to wait. Now it waits. And I'll tell you a secret: I miss it leaving."],
+    ["So when you're ready, go back out through the frame. Out there the light is going; it is always going.", "Watch it go, for me. That was the whole of my work: to love a thing while it leaves."]
+  ]
+}
